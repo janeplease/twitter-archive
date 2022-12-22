@@ -1,0 +1,4386 @@
+[class Tweet {
+    attachments: null
+    authorId: 595245502
+    contextAnnotations: null
+    conversationId: 1540492141612486659
+    createdAt: 2022-06-25T00:28:42Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T00:58:42Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540492141612486659]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 18
+            start: 12
+            normalizedText: taliban
+            probability: 0.4699
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 34
+            start: 29
+            normalizedText: sharia
+            probability: 0.5609
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540492141612486659
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 81843
+        quoteCount: 329
+        replyCount: 426
+        retweetCount: 11830
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: its not the taliban. its not sharia. its not muslims. its homegrown good old christian fanatical hate
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540659656367828992]
+        pollIds: null
+    }
+    authorId: 1558462969
+    contextAnnotations: null
+    conversationId: 1540659667709222912
+    createdAt: 2022-06-25T11:34:23Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T12:04:23Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540659667709222912]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 51
+            start: 37
+            normalizedText: Sapna Bookhouse
+            probability: 0.8007
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 61
+            start: 53
+            normalizedText: Bangalore
+            probability: 0.5018
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 33
+            start: 21
+            id: 1603439773
+            username: Kurz_Gesagt
+        }]
+        urls: [class UrlEntity {
+            end: 86
+            start: 63
+            description: null
+            displayUrl: pic.twitter.com/dKdtio1pn6
+            expandedUrl: https://twitter.com/KulksThoughts/status/1540659667709222912/photo/1
+            images: null
+            mediaKey: 3_1540659656367828992
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/dKdtio1pn6
+        }]
+    }
+    geo: null
+    id: 1540659667709222912
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: true
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9
+        quoteCount: 0
+        replyCount: 0
+        retweetCount: 0
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Didn't expect to see @Kurz_Gesagt in Sapna Bookhouse Bangalore https://t.co/dKdtio1pn6
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 23375688
+    contextAnnotations: null
+    conversationId: 1540455914984988672
+    createdAt: 2022-06-24T22:04:45Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T22:34:45Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540455914984988672]
+    entities: null
+    geo: null
+    id: 1540455914984988672
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 350552
+        quoteCount: 1710
+        replyCount: 4070
+        retweetCount: 49462
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Watching a Constitutional right be stripped away is horrific. A woman should have the right to CHOOSE what she wants to do with her own body. End of story.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540420930442330113]
+        pollIds: null
+    }
+    authorId: 22327576
+    contextAnnotations: null
+    conversationId: 1540421356625563649
+    createdAt: 2022-06-24T19:47:25Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T20:17:25Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540421356625563649]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 8
+            start: 4
+            normalizedText: Onion
+            probability: 0.5112
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 67
+            start: 44
+            description: null
+            displayUrl: pic.twitter.com/qB9JWZQq6f
+            expandedUrl: https://twitter.com/scottedelman/status/1540421356625563649/photo/1
+            images: null
+            mediaKey: 3_1540420930442330113
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/qB9JWZQq6f
+        }]
+    }
+    geo: null
+    id: 1540421356625563649
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 102752
+        quoteCount: 818
+        replyCount: 493
+        retweetCount: 22755
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The Onion isn't taking any prisoners today. https://t.co/qB9JWZQq6f
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1057311423334760448
+    contextAnnotations: null
+    conversationId: 1540588988444028933
+    createdAt: 2022-06-25T06:53:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T07:23:32Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540588988444028933]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 110
+            start: 107
+            normalizedText: PCOS
+            probability: 0.5979
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 155
+            start: 132
+            description: null
+            displayUrl: twitter.com/AlishaAkhani/s…
+            expandedUrl: https://twitter.com/AlishaAkhani/status/1540545866456596481
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/O4VG3kbgmV
+        }]
+    }
+    geo: null
+    id: 1540588988444028933
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 26
+        quoteCount: 0
+        replyCount: 2
+        retweetCount: 1
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540545866456596481
+        type: quoted
+    }]
+    replySettings: following
+    source: null
+    text: I can't even easily find a supportive non-judgemental ob/gyn in the metropolises I have lived in, even for PCOS let alone abortions https://t.co/O4VG3kbgmV
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1163734415735844864
+    contextAnnotations: null
+    conversationId: 1540539801648082944
+    createdAt: 2022-06-25T03:38:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T04:08:05Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540539801648082944]
+    entities: null
+    geo: null
+    id: 1540539801648082944
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 133
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 23
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: One's right to abortion should not be determined by whether they were sexually assaulted, or if their pregnancy risks their lives. If one gets pregnant, and doesn't want to be pregnant, they should be able to access abortion because it's their right over their own goddamn body.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 834078524277456897
+    contextAnnotations: null
+    conversationId: 1540434166571044864
+    createdAt: 2022-06-24T20:38:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:08:19Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540434166571044864]
+    entities: null
+    geo: null
+    id: 1540434166571044864
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 499340
+        quoteCount: 1954
+        replyCount: 1351
+        retweetCount: 115683
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: When the penalty for aborting after rape is more severe than the penalty for rape, that's when you know it's a war on women
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 510464011
+    contextAnnotations: null
+    conversationId: 1540346881070563328
+    createdAt: 2022-06-24T14:51:29Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:21:29Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540346881070563328]
+    entities: null
+    geo: null
+    id: 1540346881070563328
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 10622
+        quoteCount: 87
+        replyCount: 619
+        retweetCount: 2042
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: So next up is contraception, right? Or a return of anti-sodomy laws? I mean, if you obliterate a right to privacy, a lot of things go out the window
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 41387157
+    contextAnnotations: null
+    conversationId: 1540337476102787077
+    createdAt: 2022-06-24T14:14:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:44:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540337476102787077]
+    entities: null
+    geo: null
+    id: 1540337476102787077
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 10047
+        quoteCount: 97
+        replyCount: 212
+        retweetCount: 2547
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: We are now under the rule of six religious zealots.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 4699964858
+    contextAnnotations: null
+    conversationId: 1540437875342311435
+    createdAt: 2022-06-24T20:53:04Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:23:04Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540437875342311435]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 112
+            start: 108
+            normalizedText: Jesus
+            probability: 0.7669
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540437875342311435
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1926
+        quoteCount: 2
+        replyCount: 1
+        retweetCount: 77
+    }
+    referencedTweets: null
+    replySettings: mentionedUsers
+    source: null
+    text: I have had one sex partner my entire life. I am married. Over two decades. I have born two children. I love Jesus with all of my heart. I go to church. I am grateful for planned parenthood and safe access to care if I need it.
+    
+    I still believe in women’s rights and body autonomy.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 15740776
+    contextAnnotations: null
+    conversationId: 1540430040898453505
+    createdAt: 2022-06-24T20:21:56Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T20:51:56Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540430040898453505]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 49
+            start: 47
+            normalizedText: Roe
+            probability: 0.6512
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 57
+            start: 54
+            normalizedText: Wade
+            probability: 0.6108
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540430040898453505
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 295732
+        quoteCount: 1503
+        replyCount: 2396
+        retweetCount: 60055
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The man who stacked the court and made killing Roe v. Wade possible has been credibly accused of sexual assault, sexual misconduct, and rape by 15 women.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 233643386
+    contextAnnotations: null
+    conversationId: 1540362273973145600
+    createdAt: 2022-06-24T15:52:39Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:22:39Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540362273973145600]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 47
+            start: 24
+            description: null
+            displayUrl: twitter.com/JortsTheCat/st…
+            expandedUrl: https://twitter.com/JortsTheCat/status/1540362167614025729
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/pPq0gx4T4j
+        }]
+    }
+    geo: null
+    id: 1540362273973145600
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 12
+        quoteCount: 0
+        replyCount: 0
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540362167614025729
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: time for the sharp claw https://t.co/pPq0gx4T4j
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 18587173
+    contextAnnotations: null
+    conversationId: 1540433423969525766
+    createdAt: 2022-06-24T20:35:22Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:05:22Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540433423969525766]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 93
+            start: 79
+            normalizedText: The Alito Court
+            probability: 0.8434
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: 96ddfc4bf2f1a80c
+    }
+    id: 1540433423969525766
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1131
+        quoteCount: 9
+        replyCount: 10
+        retweetCount: 105
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Hello. And welcome to... "Revolutions." Episode Twelve point... Twenty-Three. "The Alito Court."
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 27493883
+    contextAnnotations: null
+    conversationId: 1540357682099625985
+    createdAt: 2022-06-24T15:34:24Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:04:24Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540357682099625985]
+    entities: null
+    geo: null
+    id: 1540357682099625985
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 662191
+        quoteCount: 2838
+        replyCount: 4485
+        retweetCount: 127845
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: If banning abortion "stops abortions," let's ban guns and stop gun violence.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 26053643
+    contextAnnotations: null
+    conversationId: 1540469717311229952
+    createdAt: 2022-06-24T22:59:35Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T23:29:35Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540469717311229952]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 138
+            start: 124
+            normalizedText: Clarence Thomas
+            probability: 0.8953
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 252
+            start: 245
+            normalizedText: Griswold
+            probability: 0.447
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 262
+            start: 255
+            normalizedText: Lawrence
+            probability: 0.5007
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 278
+            start: 269
+            normalizedText: Obergefell
+            probability: 0.5642
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540469717311229952
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 69750
+        quoteCount: 955
+        replyCount: 7419
+        retweetCount: 12255
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Ready for birth control and same sex relationships to go away too?  THE CRAZY PEOPLE ARE TAKING OVER BECAUSE WE DON'T ACT!" Clarence Thomas WROTE that justices “should reconsider all of this Court’s substantive due process precedents, including Griswold, Lawrence, and Obergefell”
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1283331898920644608
+    contextAnnotations: null
+    conversationId: 1540382274482348039
+    createdAt: 2022-06-24T17:12:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:42:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540382274482348039]
+    entities: null
+    geo: null
+    id: 1540382274482348039
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 105283
+        quoteCount: 169
+        replyCount: 237
+        retweetCount: 10992
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: It’s 2022 and somehow women are losing rights instead of gaining them…
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1278444226620112896
+    contextAnnotations: null
+    conversationId: 1540529686341570561
+    createdAt: 2022-06-25T02:57:53Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T03:27:53Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540529686341570561]
+    entities: null
+    geo: null
+    id: 1540529686341570561
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1068092
+        quoteCount: 5472
+        replyCount: 9406
+        retweetCount: 197870
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I really wish people would stop drastically using the scenarios of rape or incest as the sole premise for an abortion. A woman doesn’t have to be in a traumatic situation for it to be reason enough. In fact there is zero explanation that needs to be given.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 739710289453555713
+    contextAnnotations: null
+    conversationId: 1540567850066161664
+    createdAt: 2022-06-25T05:29:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T05:59:32Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540567850066161664]
+    entities: null
+    geo: null
+    id: 1540567850066161664
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 12120
+        quoteCount: 23
+        replyCount: 16
+        retweetCount: 1000
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: So many people truly and genuinely just lack empathy because I swear to god the moment it was their child or girlfriend they would change their tune immediately but they can’t do the mental monkey bar to get one step removed from theirselves
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 119756545
+    contextAnnotations: null
+    conversationId: 1540423706098503685
+    createdAt: 2022-06-24T19:56:45Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T20:26:45Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540423706098503685]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 38
+            start: 32
+            normalizedText: Miranda
+            probability: 0.6854
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540423706098503685
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 84339
+        quoteCount: 246
+        replyCount: 147
+        retweetCount: 15185
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: convenient the court kneecapped Miranda right before triggering nationwide protests
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 21982720
+    contextAnnotations: null
+    conversationId: 1540366118866587648
+    createdAt: 2022-06-24T16:07:56Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:37:56Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540366118866587648]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 30
+            start: 18
+            normalizedText: Supreme Court
+            probability: 0.8439
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540366118866587648
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 383756
+        quoteCount: 2893
+        replyCount: 3237
+        retweetCount: 90428
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: So, to sum up the Supreme Court’s week: life begins at conception and ends in a mass shooting.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 372563164
+    contextAnnotations: null
+    conversationId: 1540520898418995201
+    createdAt: 2022-06-25T02:22:58Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T02:52:58Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540520898418995201]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 5
+            start: 0
+            normalizedText: SCOTUS
+            probability: 0.5425
+            type: Organization
+        }, class FullTextEntitiesAnnotations {
+            end: 20
+            start: 18
+            normalizedText: Roe
+            probability: 0.7699
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 27
+            start: 24
+            normalizedText: Wade
+            probability: 0.7834
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540520898418995201
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 24895
+        quoteCount: 131
+        replyCount: 356
+        retweetCount: 4214
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: SCOTUS overturned Roe v Wade because the word "abortion" isn't in the the document that said black people were 3/5's of a person? Gotcha.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1524895531411070976
+    contextAnnotations: null
+    conversationId: 1540358217930199040
+    createdAt: 2022-06-24T15:36:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:06:32Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540358217930199040]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 64
+            start: 63
+            normalizedText: US
+            probability: 0.9586
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540358217930199040
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 16535
+        quoteCount: 64
+        replyCount: 5
+        retweetCount: 3940
+    }
+    referencedTweets: null
+    replySettings: following
+    source: null
+    text: us supreme court is seeming to forget that not everyone in the US follows christianity. in jewish faith it is required to get an abortion if it threatens the life of the mother. in muslim faith the life of the mother comes first. why is it that these voices are silenced? oh yeah.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 85583894
+    contextAnnotations: null
+    conversationId: 1540501498341253124
+    createdAt: 2022-06-25T01:05:52Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T01:35:52Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540501498341253124]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 64
+            start: 59
+            normalizedText: Sharia
+            probability: 0.546
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540501498341253124
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 166843
+        quoteCount: 1444
+        replyCount: 2124
+        retweetCount: 35207
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Your friendly local Muslim &amp; lawyer here to remind you Sharia permits abortion up to 120 days, for rape/incest, when fetus is non-viable,&amp; to save the mother’s life—as a decision between a woman &amp; her Dr
+    
+    Stop using our faith as your punchline—This is 100% ‘Christian’ nationalism
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 27306431
+    contextAnnotations: null
+    conversationId: 1540484804994629633
+    createdAt: 2022-06-25T00:03:22Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T00:33:22Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1540485766958252037]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 14
+            start: 0
+            id: 784575415457308672
+            username: TheRealHoarse
+        }]
+        urls: null
+    }
+    geo: null
+    id: 1540485766958252037
+    inReplyToUserId: 784575415457308672
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 277
+        quoteCount: 0
+        replyCount: 6
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540484804994629633
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @TheRealHoarse My youngest is autistic. She had a breakdown a year ago and is finally starting to recover. At her new (special ed) school she was pupil of the week. My heart is so full of pride and happiness, it hurts.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1449944377615261696
+    contextAnnotations: null
+    conversationId: 1540362194759561216
+    createdAt: 2022-06-24T15:52:20Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:22:20Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540362194759561216]
+    entities: null
+    geo: null
+    id: 1540362194759561216
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 22744
+        quoteCount: 200
+        replyCount: 3
+        retweetCount: 6375
+    }
+    referencedTweets: null
+    replySettings: following
+    source: null
+    text: every form of contraceptive is a woman’s responsibility. the pill, the shot, an IUD, etc., because men don’t want to wear a condom &amp; they also don’t want to get a vasectomy. this isn’t about unborn “babies” it’s about controlling women and it always has been.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1428443201392857088
+    contextAnnotations: null
+    conversationId: 1540338968490819584
+    createdAt: 2022-06-24T14:20:02Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:50:02Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540338968490819584]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 21
+            start: 4
+            normalizedText: U.S. Supreme Court
+            probability: 0.8933
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 99
+            start: 86
+            normalizedText: Miranda Rights
+            probability: 0.6923
+            type: Organization
+        }, class FullTextEntitiesAnnotations {
+            end: 158
+            start: 156
+            normalizedText: Roe
+            probability: 0.6752
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 165
+            start: 162
+            normalizedText: Wade
+            probability: 0.6506
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 227
+            start: 221
+            normalizedText: America
+            probability: 0.7528
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 250
+            start: 241
+            normalizedText: Republican
+            probability: 0.4897
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540338968490819584
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 213646
+        quoteCount: 3009
+        replyCount: 2680
+        retweetCount: 66923
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The U.S. Supreme Court made it easier to own a gun, gave cops the ability to not read Miranda Rights, gave religious schools public funding, and overturned Roe v Wade after 50 years of precedence. Welcome to conservative America. Never vote Republican again.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 81478236
+    contextAnnotations: null
+    conversationId: 1540461491572248576
+    createdAt: 2022-06-24T22:33:20Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T23:03:20Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1540463108573077504]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 45
+            start: 41
+            normalizedText: Jorts
+            probability: 0.7114
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 12
+            start: 0
+            id: 1470944601309528072
+            username: JortsTheCat
+        }]
+        urls: null
+    }
+    geo: null
+    id: 1540463108573077504
+    inReplyToUserId: 1470944601309528072
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 230
+        quoteCount: 0
+        replyCount: 0
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540461491572248576
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @JortsTheCat Nice work on the tail curl, Jorts, that is some A+ posing
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540461482952904704]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1540461491572248576
+    createdAt: 2022-06-24T22:26:54Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T22:56:54Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540461491572248576]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 86
+            start: 63
+            description: null
+            displayUrl: pic.twitter.com/9Aro4YoVOk
+            expandedUrl: https://twitter.com/JortsTheCat/status/1540461491572248576/photo/1
+            images: null
+            mediaKey: 3_1540461482952904704
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/9Aro4YoVOk
+        }]
+    }
+    geo: null
+    id: 1540461491572248576
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 17595
+        quoteCount: 42
+        replyCount: 145
+        retweetCount: 1305
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Oh good you’re here. We have lots of work to do, so come on in https://t.co/9Aro4YoVOk
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 569496652
+    contextAnnotations: null
+    conversationId: 1540460623636611073
+    createdAt: 2022-06-24T22:23:27Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T22:53:27Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540460623636611073]
+    entities: null
+    geo: null
+    id: 1540460623636611073
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 35262
+        quoteCount: 372
+        replyCount: 789
+        retweetCount: 8820
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: If there are no abortion exceptions for rape, incest, or the life of the mother (as required under Jewish Law), then politicians/judges have enacted/approved legislation preferring one religion over another. How could this not be a violation of the First Amendment?
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1000870773945446402
+    contextAnnotations: null
+    conversationId: 1540354137304760321
+    createdAt: 2022-06-24T20:43:16Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:13:16Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1540435411562029059]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 8
+            start: 0
+            id: 9286242
+            username: ginasue
+        }]
+        urls: null
+    }
+    geo: null
+    id: 1540435411562029059
+    inReplyToUserId: 9286242
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9298
+        quoteCount: 61
+        replyCount: 136
+        retweetCount: 430
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540354137304760321
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @ginasue I am in my 60's and plan on "tracking my menstrual cycles" and searching for abortion info online. Let them come for me at least that will waste their time. Even funnier if a lot of men do this too.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 22100541
+    contextAnnotations: null
+    conversationId: 1540355198320644098
+    createdAt: 2022-06-24T15:24:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:54:32Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540355198320644098]
+    entities: null
+    geo: null
+    id: 1540355198320644098
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 69189
+        quoteCount: 183
+        replyCount: 61
+        retweetCount: 9187
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The cascading nature of the worst fucking news you’ve ever heard on top of the worst fucking news you’ve ever heard for years on end
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1266874684718669824
+    contextAnnotations: null
+    conversationId: 1540370094756450305
+    createdAt: 2022-06-24T16:23:43Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:53:43Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540370094756450305]
+    entities: null
+    geo: null
+    id: 1540370094756450305
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 543972
+        quoteCount: 1914
+        replyCount: 4697
+        retweetCount: 97519
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Can’t mandate masks but you can mandate pregnancy. What a country.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540379318932500480]
+        pollIds: null
+    }
+    authorId: 925083760407621632
+    contextAnnotations: null
+    conversationId: 1540379461564018688
+    createdAt: 2022-06-24T17:00:57Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:30:57Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540379461564018688]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/VYSiHieeDh
+            expandedUrl: https://twitter.com/karlarod_/status/1540379461564018688/photo/1
+            images: null
+            mediaKey: 3_1540379318932500480
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/VYSiHieeDh
+        }]
+    }
+    geo: null
+    id: 1540379461564018688
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: true
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1267995
+        quoteCount: 5087
+        replyCount: 5506
+        retweetCount: 305588
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/VYSiHieeDh
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 81478236
+    contextAnnotations: null
+    conversationId: 1540362167614025729
+    createdAt: 2022-06-24T16:09:42Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:39:42Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1540366566730129408]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 12
+            start: 0
+            id: 1470944601309528072
+            username: JortsTheCat
+        }]
+        urls: null
+    }
+    geo: null
+    id: 1540366566730129408
+    inReplyToUserId: 1470944601309528072
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1041
+        quoteCount: 0
+        replyCount: 5
+        retweetCount: 8
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540362167614025729
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @JortsTheCat Is there room on your rug for two, buddy, cause I feel like I could use some time lying on my back with my feets all curly, just looking at the ceiling
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 892848447753117700
+    contextAnnotations: null
+    conversationId: 1540390942485651458
+    createdAt: 2022-06-24T17:46:34Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:16:34Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540390942485651458]
+    entities: null
+    geo: null
+    id: 1540390942485651458
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 293079
+        quoteCount: 1392
+        replyCount: 703
+        retweetCount: 68007
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I’m here for the women who get abortions just because they want to. No explanation. If she does not want to be pregnant, that’s a good enough reason to me. I truly do not care. I’m done playing this morality game.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2632400799
+    contextAnnotations: null
+    conversationId: 1540375211413245953
+    createdAt: 2022-06-24T16:44:03Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:14:03Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540375211413245953]
+    entities: null
+    geo: null
+    id: 1540375211413245953
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 413781
+        quoteCount: 1434
+        replyCount: 948
+        retweetCount: 95506
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: i’m so tired of abortion rights being framed around truly tragic circumstances like assault and incest. if you get pregnant &amp; you don’t want to be pregnant, it is your right over your own body that is under siege. no one, including a fetus, can use your body against your consent.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 754006735468261376
+    contextAnnotations: null
+    conversationId: 1540488685275082754
+    createdAt: 2022-06-25T00:14:58Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-25T00:44:58Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540488685275082754]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 234
+            start: 227
+            normalizedText: dementia
+            probability: 0.7533
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: 3b77caf94bfc81fe
+    }
+    id: 1540488685275082754
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 268196
+        quoteCount: 1286
+        replyCount: 834
+        retweetCount: 37996
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: i think it’s really time we come together and limit how old a government official can be. i genuinely don’t think someone should be able to make life changing decisions for an entire country while also being old enough to have dementia
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 14260960
+    contextAnnotations: null
+    conversationId: 1540362024051408897
+    createdAt: 2022-06-24T15:51:39Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:21:39Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540362024051408897]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 39
+            start: 27
+            normalizedText: United States
+            probability: 0.9614
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540362024051408897
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 289479
+        quoteCount: 5222
+        replyCount: 21940
+        retweetCount: 39681
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The news coming out of the United States is horrific. My heart goes out to the millions of American women who are now set to lose their legal right to an abortion. I can’t imagine the fear and anger you are feeling right now.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 36711022
+    contextAnnotations: null
+    conversationId: 1540437291700613121
+    createdAt: 2022-06-24T20:50:44Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:20:44Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540437291700613121]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 46
+            start: 34
+            normalizedText: Supreme Court
+            probability: 0.4005
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540437291700613121
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 195213
+        quoteCount: 1336
+        replyCount: 5505
+        retweetCount: 33128
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: If it takes 50 votes to confirm a Supreme Court justice, it should only take 50 votes to overrule them when they act like highly-partisan politicians.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 825243374
+    contextAnnotations: null
+    conversationId: 1540360101491507200
+    createdAt: 2022-06-24T15:44:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:14:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540360101491507200]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 113
+            start: 109
+            normalizedText: LGBTQ
+            probability: 0.8972
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540360101491507200
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 35651
+        quoteCount: 149
+        replyCount: 1
+        retweetCount: 9298
+    }
+    referencedTweets: null
+    replySettings: mentionedUsers
+    source: null
+    text: Please connect the dots, learn the lesson. First it was voting rights. Then abortion rights. Soon it will be LGBTQ rights using trans panic as the wedge. Soon too, the last vestiges of the welfare state. None of us are free until all of us are free.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 862153167915687936
+    contextAnnotations: null
+    conversationId: 1540340611554783232
+    createdAt: 2022-06-24T14:26:34Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:56:34Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540340611554783232]
+    entities: null
+    geo: null
+    id: 1540340611554783232
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 504159
+        quoteCount: 3163
+        replyCount: 4984
+        retweetCount: 100254
+    }
+    referencedTweets: null
+    replySettings: mentionedUsers
+    source: null
+    text: I don’t think people realize that it is perfectly fine to be pro-life for your own body, but you can’t force that on someone else’s body. That is their decision.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540345337046597638]
+        pollIds: null
+    }
+    authorId: 874730868
+    contextAnnotations: null
+    conversationId: 1540345498153934849
+    createdAt: 2022-06-24T14:45:59Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:15:59Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540345498153934849]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 45
+            start: 38
+            normalizedText: ion
+            Lawr
+            probability: 0.6253
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 261
+            start: 238
+            description: null
+            displayUrl: pic.twitter.com/dFCNmMYtYu
+            expandedUrl: https://twitter.com/rahnamepting/status/1540345498153934849/photo/1
+            images: null
+            mediaKey: 3_1540345337046597638
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/dFCNmMYtYu
+        }]
+    }
+    geo: null
+    id: 1540345498153934849
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 26459
+        quoteCount: 865
+        replyCount: 340
+        retweetCount: 11947
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: There it is. 
+    
+    ​​Griswold - Contraception
+    Lawrence - Same-sex relationships
+    Obergefell - Marriage equality 
+    
+    It does not end at abortion. Republicans will not stop until they have stripped away every freedom they can’t load with bullets. https://t.co/dFCNmMYtYu
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 24628162
+    contextAnnotations: null
+    conversationId: 1540377166667554820
+    createdAt: 2022-06-24T16:51:50Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:21:50Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540377166667554820]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 110
+            start: 87
+            description: null
+            displayUrl: twitter.com/emrazz/status/…
+            expandedUrl: https://twitter.com/emrazz/status/1540346897046671360
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/di6w9QBztj
+        }]
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: 01fbe706f872cb32
+    }
+    id: 1540377166667554820
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 319
+        quoteCount: 1
+        replyCount: 7
+        retweetCount: 42
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540346897046671360
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: The hopelessness and despair we feel is so unbearably ignored by the men in our lives. https://t.co/di6w9QBztj
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540363269856079874]
+        pollIds: null
+    }
+    authorId: 35160578
+    contextAnnotations: null
+    conversationId: 1540363274910171137
+    createdAt: 2022-06-24T15:56:37Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:26:37Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540363274910171137]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 14
+            start: 11
+            normalizedText: Dick
+            probability: 0.5632
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 31
+            start: 18
+            normalizedText: Sporting Goods
+            probability: 0.4328
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 43
+            start: 36
+            normalizedText: LinkedIn
+            probability: 0.5495
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 68
+            start: 45
+            description: null
+            displayUrl: pic.twitter.com/maqYINYSUQ
+            expandedUrl: https://twitter.com/mattlindner/status/1540363274910171137/photo/1
+            images: null
+            mediaKey: 3_1540363269856079874
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/maqYINYSUQ
+        }]
+    }
+    geo: null
+    id: 1540363274910171137
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 484530
+        quoteCount: 10230
+        replyCount: 4128
+        retweetCount: 88371
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The CEO of Dick’s Sporting Goods on LinkedIn https://t.co/maqYINYSUQ
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 7334402
+    contextAnnotations: null
+    conversationId: 1540401732898807808
+    createdAt: 2022-06-24T18:29:27Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:59:27Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540401732898807808]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 24
+            start: 20
+            normalizedText: Alito
+            probability: 0.4462
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 127
+            start: 122
+            normalizedText: Thomas
+            probability: 0.6778
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540401732898807808
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 97775
+        quoteCount: 1087
+        replyCount: 3737
+        retweetCount: 19298
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: As I said after the Alito leak, Dems should put a bill on the floor codifying the right to birth control, and in light of Thomas’ concurrence, marriage equality and privacy.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 161801527
+    contextAnnotations: null
+    conversationId: 1540346724132171777
+    createdAt: 2022-06-24T14:50:51Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:20:51Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540346724132171777]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 218
+            start: 212
+            normalizedText: America
+            probability: 0.784
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540346724132171777
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 3210
+        quoteCount: 82
+        replyCount: 532
+        retweetCount: 761
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Today, a government in which women have never had an equal voice reached deep into the most private corners of a woman’s life to tell her the choice over what she does with her body is no longer her own. This is America taking a big step backward.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 237845487
+    contextAnnotations: null
+    conversationId: 1540343563065630722
+    createdAt: 2022-06-24T14:38:18Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:08:18Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540343563065630722]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 6
+            start: 0
+            normalizedText: America
+            probability: 0.9341
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540343563065630722
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 50102
+        quoteCount: 226
+        replyCount: 1441
+        retweetCount: 3375
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: America, I weep for you.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540362049481453569]
+        pollIds: null
+    }
+    authorId: 50669520
+    contextAnnotations: null
+    conversationId: 1540362050987122689
+    createdAt: 2022-06-24T15:51:46Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:21:46Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540362050987122689]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 31
+            start: 26
+            normalizedText: SCOTUS
+            probability: 0.834
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: [class HashtagEntity {
+            end: 32
+            start: 25
+            tag: SCOTUS
+        }]
+        mentions: null
+        urls: [class UrlEntity {
+            end: 93
+            start: 70
+            description: null
+            displayUrl: pic.twitter.com/JYOwLHRGJY
+            expandedUrl: https://twitter.com/DrJasonJohnson/status/1540362050987122689/photo/1
+            images: null
+            mediaKey: 3_1540362049481453569
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/JYOwLHRGJY
+        }]
+    }
+    geo: null
+    id: 1540362050987122689
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 30260
+        quoteCount: 1285
+        replyCount: 1120
+        retweetCount: 10898
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: They were all lying. The #SCOTUS process has been broken for a decade https://t.co/JYOwLHRGJY
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1435010920615403521
+    contextAnnotations: null
+    conversationId: 1540344123147821062
+    createdAt: 2022-06-24T14:40:31Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:10:31Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540344123147821062]
+    entities: null
+    geo: null
+    id: 1540344123147821062
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 553
+        quoteCount: 6
+        replyCount: 9
+        retweetCount: 139
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Can we blame Christian imperialism, Christian nationalism, Christian hegemony, Christian brutality, and Christian supremacy now?
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1046247723874246656
+    contextAnnotations: null
+    conversationId: 1540197047370141701
+    createdAt: 2022-06-24T04:56:06Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T05:26:06Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540197047370141701]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 139
+            start: 128
+            normalizedText: Ravish Kumar
+            probability: 0.9854
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 164
+            start: 141
+            description: null
+            displayUrl: twitter.com/LiveLawIndia/s…
+            expandedUrl: https://twitter.com/LiveLawIndia/status/1540172841714601985
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/nKWc2kws5S
+        }]
+    }
+    geo: null
+    id: 1540197047370141701
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 4188
+        quoteCount: 11
+        replyCount: 15
+        retweetCount: 845
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540172841714601985
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: "Not all battles are fought for victory. Some are fought simply to tell the world that someone was there on the battlefield." ~ Ravish Kumar https://t.co/nKWc2kws5S
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1268223690480615424
+    contextAnnotations: null
+    conversationId: 1540388405875544064
+    createdAt: 2022-06-24T17:36:29Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:06:29Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540388405875544064]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 19
+            start: 5
+            normalizedText: Clarence Thomas
+            probability: 0.9656
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 145
+            start: 143
+            normalizedText: Roe
+            probability: 0.3646
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540388405875544064
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 41681
+        quoteCount: 3399
+        replyCount: 4571
+        retweetCount: 14374
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: NEW: Clarence Thomas just said that contraception and same-sex marriage are “errors” that the Supreme Court has a “duty” to “correct” now that Roe is overturned.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1174134866906112001
+    contextAnnotations: null
+    conversationId: 1540062531108184067
+    createdAt: 2022-06-23T20:01:35Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-23T20:31:35Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540062531108184067]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 6
+            start: 3
+            normalizedText: Juul
+            probability: 0.4704
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540062531108184067
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 70536
+        quoteCount: 344
+        replyCount: 203
+        retweetCount: 6616
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: No Juul no abortion. What else is there to do
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540366878291410950]
+        pollIds: null
+    }
+    authorId: 324703658
+    contextAnnotations: null
+    conversationId: 1540366880921231364
+    createdAt: 2022-06-24T16:10:57Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:40:57Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540366880921231364]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 130
+            start: 128
+            normalizedText: Roe
+            probability: 0.7957
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 137
+            start: 134
+            normalizedText: Wade
+            probability: 0.8272
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 280
+            start: 257
+            description: null
+            displayUrl: pic.twitter.com/4umx7EPeNW
+            expandedUrl: https://twitter.com/RexChapman/status/1540366880921231364/photo/1
+            images: null
+            mediaKey: 3_1540366878291410950
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/4umx7EPeNW
+        }]
+    }
+    geo: null
+    id: 1540366880921231364
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 8964
+        quoteCount: 317
+        replyCount: 387
+        retweetCount: 3320
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The man that just tried to overturn a free and fair election appointed three Supreme Court Justices. They all voted to overturn Roe v Wade after lying about it in their confirmation hearings. The wife of another Justice supported overthrowing the election. https://t.co/4umx7EPeNW
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 149249831
+    contextAnnotations: null
+    conversationId: 1540372870290882561
+    createdAt: 2022-06-24T16:34:45Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:04:45Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540372870290882561]
+    entities: null
+    geo: null
+    id: 1540372870290882561
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 3543
+        quoteCount: 24
+        replyCount: 42
+        retweetCount: 816
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The people who are making it easier to buy guns want you to know that abortion is murder.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540432272574353408, 3_1540432272805056513]
+        pollIds: null
+    }
+    authorId: 1634248890
+    contextAnnotations: null
+    conversationId: 1540432276365901825
+    createdAt: 2022-06-24T20:30:49Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T21:00:49Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540432276365901825]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/rki510IOFr
+            expandedUrl: https://twitter.com/kenklippenstein/status/1540432276365901825/photo/1
+            images: null
+            mediaKey: 3_1540432272574353408
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/rki510IOFr
+        }, class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/rki510IOFr
+            expandedUrl: https://twitter.com/kenklippenstein/status/1540432276365901825/photo/1
+            images: null
+            mediaKey: 3_1540432272805056513
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/rki510IOFr
+        }]
+    }
+    geo: null
+    id: 1540432276365901825
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 22292
+        quoteCount: 231
+        replyCount: 183
+        retweetCount: 3540
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/rki510IOFr
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1235610347500974081
+    contextAnnotations: null
+    conversationId: 1540355133141356544
+    createdAt: 2022-06-24T15:24:16Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:54:16Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540355133141356544]
+    entities: null
+    geo: null
+    id: 1540355133141356544
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 161706
+        quoteCount: 142
+        replyCount: 453
+        retweetCount: 12903
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: the supreme court
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 701171448
+    contextAnnotations: null
+    conversationId: 1540341329003257856
+    createdAt: 2022-06-24T14:29:25Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:59:25Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540341329003257856]
+    entities: null
+    geo: null
+    id: 1540341329003257856
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 236860
+        quoteCount: 2718
+        replyCount: 526
+        retweetCount: 70474
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Abortions got banned before we got better gun control after a series of mass shootings.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2861600332
+    contextAnnotations: null
+    conversationId: 1540356232699158532
+    createdAt: 2022-06-24T15:28:38Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:58:38Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540356232699158532]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 35
+            start: 25
+            normalizedText: roe v. wade
+            probability: 0.504
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540356232699158532
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 89754
+        quoteCount: 423
+        replyCount: 161
+        retweetCount: 20178
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: sorry i can’t talk about roe v. wade right now, i have to finish my article on how millions of children will go hungry this summer because congress hasn’t extended the school nutrition waivers which provided free school meals to children regardless of income.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 286396687
+    contextAnnotations: null
+    conversationId: 1540344182744678400
+    createdAt: 2022-06-24T14:40:46Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:10:46Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540344182744678400]
+    entities: null
+    geo: null
+    id: 1540344182744678400
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 257385
+        quoteCount: 2704
+        replyCount: 1448
+        retweetCount: 64291
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Wealthy white women will have zero trouble getting abortions and/or birth control. It’ll be the poor black and brown women living in red states who will be effected by this the most.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 4421977275
+    contextAnnotations: null
+    conversationId: 1540023335798677504
+    createdAt: 2022-06-23T17:25:50Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-23T17:55:50Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540023335798677504]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 51
+            start: 28
+            description: null
+            displayUrl: twitter.com/RealKeriSmith/…
+            expandedUrl: https://twitter.com/RealKeriSmith/status/1539737008410689538
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/k9uLNlARfb
+        }]
+    }
+    geo: null
+    id: 1540023335798677504
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 37114
+        quoteCount: 73
+        replyCount: 224
+        retweetCount: 4626
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1539737008410689538
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: She just described December https://t.co/k9uLNlARfb
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 9286242
+    contextAnnotations: null
+    conversationId: 1540354137304760321
+    createdAt: 2022-06-24T15:20:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:50:19Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540354137304760321]
+    entities: null
+    geo: null
+    id: 1540354137304760321
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 193023
+        quoteCount: 3095
+        replyCount: 2414
+        retweetCount: 48191
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Right now, and I mean this instant, delete every digital trace of any menstrual tracking. Please.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 7786612
+    contextAnnotations: null
+    conversationId: 1540343452516466689
+    createdAt: 2022-06-24T14:37:51Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:07:51Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540343452516466689]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 44
+            start: 40
+            normalizedText: Giddy
+            probability: 0.3456
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540343452516466689
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 82337
+        quoteCount: 569
+        replyCount: 1343
+        retweetCount: 11800
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Welcome to the wild fuckin west, y’all. Giddy the hell up to that voting booth in November.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1332545301706657792
+    contextAnnotations: null
+    conversationId: 1540362256269119488
+    createdAt: 2022-06-24T15:52:35Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:22:35Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540362256269119488]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 287
+            start: 264
+            description: null
+            displayUrl: twitter.com/PopCrave/statu…
+            expandedUrl: https://twitter.com/PopCrave/status/1540341761658085376
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/kOmlc0V8Hb
+        }]
+    }
+    geo: null
+    id: 1540362256269119488
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 8733
+        quoteCount: 14
+        replyCount: 25
+        retweetCount: 1939
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540341761658085376
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: it’s absolutely legal to shame these people in public. remember that. i truly hope every single person who made this possible has a horrible life and while it may not be legal, i wouldn’t be sad if people started pelting them with tomatoes every time they’re out. https://t.co/kOmlc0V8Hb
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [13_1540399365549948928]
+        pollIds: null
+    }
+    authorId: 15675138
+    contextAnnotations: null
+    conversationId: 1540400227471052800
+    createdAt: 2022-06-24T18:23:28Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:53:28Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540400227471052800]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 28
+            start: 5
+            normalizedText: Alexandria Ocasio-Cortez
+            probability: 0.5542
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 34
+            start: 33
+            normalizedText: NY
+            probability: 0.5568
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 126
+            start: 122
+            id: 138203134
+            username: AOC
+        }]
+        urls: [class UrlEntity {
+            end: 150
+            start: 127
+            description: null
+            displayUrl: pic.twitter.com/EaXUvrk0xB
+            expandedUrl: https://twitter.com/cspan/status/1540400227471052800/video/1
+            images: null
+            mediaKey: 13_1540399365549948928
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/EaXUvrk0xB
+        }]
+    }
+    geo: null
+    id: 1540400227471052800
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 26021
+        quoteCount: 520
+        replyCount: 1219
+        retweetCount: 6195
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Rep. Alexandria Ocasio-Cortez (D-NY): "Every single one of us has woken up today with less rights than we had yesterday." @AOC https://t.co/EaXUvrk0xB
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 239528739
+    contextAnnotations: null
+    conversationId: 1540372058470682624
+    createdAt: 2022-06-24T16:31:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:01:32Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540372058470682624]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 108
+            start: 102
+            normalizedText: america
+            probability: 0.525
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540372058470682624
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 373948
+        quoteCount: 1053
+        replyCount: 989
+        retweetCount: 69608
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: jewish law requires an abortion if the fetus is threatening the mother’s life. “religious freedom” in america only ever applies to the white christian masses.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 928975937273847809
+    contextAnnotations: null
+    conversationId: 1540346992609693701
+    createdAt: 2022-06-24T14:51:55Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:21:55Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540346992609693701]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 12
+            start: 8
+            normalizedText: LGBTQ
+            probability: 0.9
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540346992609693701
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 277012
+        quoteCount: 2042
+        replyCount: 467
+        retweetCount: 88962
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Married LGBTQ people: CALL A LAWYER. 
+    
+    Get copies of birth certificates and custody for your children on paper. Make sure life insurance policies, property that you own, bank account information, passwords for things, Powers of Attorney, etc. are all set up &amp; understood
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 139162440
+    contextAnnotations: null
+    conversationId: 1540349833919098880
+    createdAt: 2022-06-24T15:03:13Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:33:13Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540349833919098880]
+    entities: null
+    geo: null
+    id: 1540349833919098880
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 208511
+        quoteCount: 883
+        replyCount: 4342
+        retweetCount: 24411
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The dude who cried about beer on TV has made a BIG decision about your life, ladies!
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1512179641
+    contextAnnotations: null
+    conversationId: 1540342809131196416
+    createdAt: 2022-06-24T14:35:18Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:05:18Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540342809131196416]
+    entities: null
+    geo: null
+    id: 1540342809131196416
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 128802
+        quoteCount: 776
+        replyCount: 698
+        retweetCount: 25130
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: riot. civility is pointless
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 580224794
+    contextAnnotations: null
+    conversationId: 1540391523518451722
+    createdAt: 2022-06-24T17:48:52Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:18:52Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540391523518451722]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 59
+            start: 54
+            normalizedText: AR-15s
+            probability: 0.737
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540391523518451722
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 486908
+        quoteCount: 2743
+        replyCount: 8626
+        retweetCount: 97539
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I will never forget that abortions were banned before AR-15s.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1155581833859469314
+    contextAnnotations: null
+    conversationId: 1540343266813612033
+    createdAt: 2022-06-24T14:37:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:07:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540343266813612033]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 135
+            start: 123
+            normalizedText: Supreme Court
+            probability: 0.5701
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540343266813612033
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 179861
+        quoteCount: 864
+        replyCount: 700
+        retweetCount: 35898
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: A ban on abortion means a ban on religious freedom. The idea that life begins at conception is purely a Christian one. The Supreme Court is a Chritofascist institution.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 852990059536015360
+    contextAnnotations: null
+    conversationId: 1540017235514855425
+    createdAt: 2022-06-23T17:01:35Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-23T17:31:35Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540017235514855425]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 54
+            start: 43
+            normalizedText: CHRISTIANITY
+            probability: 0.9025
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540017235514855425
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 234932
+        quoteCount: 5343
+        replyCount: 4460
+        retweetCount: 40094
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Nobody wants to talk about how much damage CHRISTIANITY has done to Black people
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 848148994102611969
+    contextAnnotations: null
+    conversationId: 1540343648444944384
+    createdAt: 2022-06-24T14:38:38Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:08:38Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540343648444944384]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 18
+            start: 13
+            normalizedText: SCOTUS
+            probability: 0.693
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540343648444944384
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 44428
+        quoteCount: 438
+        replyCount: 734
+        retweetCount: 12058
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: According to SCOTUS, women are more regulatable than guns. 
+    
+    If this doesn’t motivate you to vote in November, shame on you.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 22162854
+    contextAnnotations: null
+    conversationId: 1540340394373816322
+    createdAt: 2022-06-24T14:25:42Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:55:42Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540340394373816322]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 26
+            start: 14
+            normalizedText: Supreme Court
+            probability: 0.482
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 82
+            start: 80
+            normalizedText: Roe
+            probability: 0.3557
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 90
+            start: 87
+            normalizedText: Wade
+            probability: 0.5118
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540340394373816322
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 81932
+        quoteCount: 1334
+        replyCount: 1321
+        retweetCount: 22422
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: BREAKING: The Supreme Court has taken away our right to abortion and overturned Roe v. Wade, opening the floodgates for states across the country to ban abortion.
+    
+    The court has failed us all — but this is far from over. ⤵
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 548384458
+    contextAnnotations: null
+    conversationId: 1540366788160020483
+    createdAt: 2022-06-24T16:10:35Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:40:35Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540366788160020483]
+    entities: null
+    geo: null
+    id: 1540366788160020483
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 56979
+        quoteCount: 461
+        replyCount: 2429
+        retweetCount: 9927
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Something that's hard to convey to people who don't walk in their shoes: there are a lot of women walking around today who aren't just sad. They're frightened. They're terrified.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 148529707
+    contextAnnotations: null
+    conversationId: 1540392087320858624
+    createdAt: 2022-06-24T17:51:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:21:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540392087320858624]
+    entities: null
+    geo: null
+    id: 1540392087320858624
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 410196
+        quoteCount: 4319
+        replyCount: 8156
+        retweetCount: 122669
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Forced birth in a country with:
+    
+    —No universal healthcare
+    —No universal childcare
+    —No paid family &amp; medical leave
+    —One of the highest rates of maternal mortality among rich nations
+    
+    This isn't about "life." It's about control.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 323599188
+    contextAnnotations: null
+    conversationId: 1540391062245629958
+    createdAt: 2022-06-24T17:47:02Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T18:17:02Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540391062245629958]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 88
+            start: 65
+            description: null
+            displayUrl: twitter.com/cspan/status/1…
+            expandedUrl: https://twitter.com/cspan/status/1540383017948037121
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/IDNh2QlKUK
+        }]
+    }
+    geo: null
+    id: 1540391062245629958
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 177593
+        quoteCount: 806
+        replyCount: 1241
+        retweetCount: 32416
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540383017948037121
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: Violence is a legitimate and appropriate response to oppression. https://t.co/IDNh2QlKUK
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1915033663
+    contextAnnotations: null
+    conversationId: 1540378546824265731
+    createdAt: 2022-06-24T16:57:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:27:19Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540378546824265731]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 30
+            start: 18
+            normalizedText: Supreme Court
+            probability: 0.519
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540378546824265731
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 64138
+        quoteCount: 379
+        replyCount: 1329
+        retweetCount: 12447
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: If nine unelected Supreme Court justices put in power by non popularly elected people have the power to overturn a policy supported by over 70% of Americans isn’t tyranny- I don’t know what is.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2329492448
+    contextAnnotations: null
+    conversationId: 1540344263422214146
+    createdAt: 2022-06-24T14:41:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:11:05Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540344263422214146]
+    entities: null
+    geo: null
+    id: 1540344263422214146
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 165169
+        quoteCount: 1251
+        replyCount: 4846
+        retweetCount: 20769
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I’m on a train right now &amp; the number of women who have tears in their eyes, including myself, is something I’m going to remember for the rest of my life.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1206987996781674497
+    contextAnnotations: null
+    conversationId: 1540345028471468037
+    createdAt: 2022-06-24T14:44:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:14:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540345028471468037]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 82
+            start: 59
+            description: null
+            displayUrl: twitter.com/BarackObama/st…
+            expandedUrl: https://twitter.com/BarackObama/status/1540340642848690176
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/NnYnR4aeu0
+        }]
+    }
+    geo: null
+    id: 1540345028471468037
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 148364
+        quoteCount: 388
+        replyCount: 215
+        retweetCount: 19577
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540340642848690176
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: You should’ve codified it in 2009 like you said you would. https://t.co/NnYnR4aeu0
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 89282580
+    contextAnnotations: null
+    conversationId: 1540361716537737218
+    createdAt: 2022-06-24T15:50:26Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:20:26Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540361716537737218]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 92
+            start: 69
+            description: null
+            displayUrl: twitter.com/PopCrave/statu…
+            expandedUrl: https://twitter.com/PopCrave/status/1540348242960846849
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/U1B7kCXDZW
+        }]
+    }
+    geo: null
+    id: 1540361716537737218
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 244621
+        quoteCount: 527
+        replyCount: 1255
+        retweetCount: 28219
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540348242960846849
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: I hope this man never knows a day of peace for the rest of his days. https://t.co/U1B7kCXDZW
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 14256472
+    contextAnnotations: null
+    conversationId: 1540371796276310017
+    createdAt: 2022-06-24T16:30:29Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:00:29Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540371796276310017]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 10
+            start: 6
+            normalizedText: Pride
+            probability: 0.6451
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540371796276310017
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 147270
+        quoteCount: 520
+        replyCount: 389
+        retweetCount: 21128
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Every Pride parade this weekend should transform itself back to its roots and be a protest. Period.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 29873662
+    contextAnnotations: null
+    conversationId: 1540348372674318339
+    createdAt: 2022-06-24T14:57:24Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:27:24Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540348372674318339]
+    entities: null
+    geo: null
+    id: 1540348372674318339
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 566365
+        quoteCount: 3529
+        replyCount: 4797
+        retweetCount: 64848
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Age limits for people in power seems smart
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 388513351
+    contextAnnotations: null
+    conversationId: 1540357300082417671
+    createdAt: 2022-06-24T15:32:53Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:02:53Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540357300082417671]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 19
+            start: 17
+            normalizedText: Roe
+            probability: 0.5063
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 232
+            start: 227
+            normalizedText: SCOTUS
+            probability: 0.6433
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540357300082417671
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 32862
+        quoteCount: 244
+        replyCount: 763
+        retweetCount: 6885
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: 1. protection of Roe is NOT controversial.  It is supported by the majority of the public (upwards of 80% in some polls), 2. the majority of people impacted by abortion bans are black, latino and other communities of color, 3. SCOTUS is not done, neither is anti-choice movement
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 18208368
+    contextAnnotations: null
+    conversationId: 1540376534065758212
+    createdAt: 2022-06-24T16:49:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:19:19Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540376534065758212]
+    entities: null
+    geo: null
+    id: 1540376534065758212
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 134399
+        quoteCount: 2088
+        replyCount: 4164
+        retweetCount: 19165
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: What if the President issues a “blanket pardon”’to any woman who gets an abortion and to any doctor who performs it
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1115826452715511809
+    contextAnnotations: null
+    conversationId: 1540338997972635649
+    createdAt: 2022-06-24T14:20:09Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:50:09Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540338997972635649]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 2
+            start: 0
+            normalizedText: Roe
+            probability: 0.6288
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 9
+            start: 6
+            normalizedText: Wade
+            probability: 0.7275
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540338997972635649
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 87143
+        quoteCount: 301
+        replyCount: 238
+        retweetCount: 19787
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Roe v Wade is dead.
+    
+    It is no coincidence that we are watching abortion rights fall the same year the most anti-trans/lgbt laws have been passed in history.
+    
+    These are two sides of the same coin in the same fight and the same people are fighting with the same justifications.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 20715936
+    contextAnnotations: null
+    conversationId: 1540340412447170565
+    createdAt: 2022-06-24T14:25:47Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T14:55:47Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540340412447170565]
+    entities: null
+    geo: null
+    id: 1540340412447170565
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 81075
+        quoteCount: 368
+        replyCount: 1562
+        retweetCount: 7938
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Until my last breath, I will fight this hatred for women.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2945426787
+    contextAnnotations: null
+    conversationId: 1540372110417137664
+    createdAt: 2022-06-24T16:31:44Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:01:44Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540372110417137664]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 85
+            start: 62
+            description: null
+            displayUrl: twitter.com/PopCrave/statu…
+            expandedUrl: https://twitter.com/PopCrave/status/1540348242960846849
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/IsK1QO3yv9
+        }]
+    }
+    geo: null
+    id: 1540372110417137664
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 258452
+        quoteCount: 1167
+        replyCount: 1311
+        retweetCount: 28848
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540348242960846849
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: “Born June 23, 1948” he needs to be put in a retirement home. https://t.co/IsK1QO3yv9
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1540342054097756161]
+        pollIds: null
+    }
+    authorId: 1185212394634727424
+    contextAnnotations: null
+    conversationId: 1540342056933007364
+    createdAt: 2022-06-24T14:32:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:02:19Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540342056933007364]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/bYeSh3fAwS
+            expandedUrl: https://twitter.com/GatorsDaily/status/1540342056933007364/photo/1
+            images: null
+            mediaKey: 3_1540342054097756161
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/bYeSh3fAwS
+        }]
+    }
+    geo: null
+    id: 1540342056933007364
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 395750
+        quoteCount: 937
+        replyCount: 1187
+        retweetCount: 68609
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/bYeSh3fAwS
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 138203134
+    contextAnnotations: null
+    conversationId: 1540354815477293056
+    createdAt: 2022-06-24T15:23:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:53:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540354815477293056]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 14
+            start: 12
+            normalizedText: Roe
+            probability: 0.4587
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 277
+            start: 254
+            normalizedText: United States of America
+            probability: 0.683
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540354815477293056
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 471039
+        quoteCount: 3936
+        replyCount: 17600
+        retweetCount: 98518
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Overturning Roe and outlawing abortions will never make them go away.
+    
+    It only makes them more dangerous, especially for the poor + marginalized.
+    
+    People will die because of this decision. And we will never stop until abortion rights are restored in the United States of America.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1104272756030533632
+    contextAnnotations: null
+    conversationId: 1540345825817026563
+    createdAt: 2022-06-24T14:47:17Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:17:17Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540345825817026563]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 118
+            start: 110
+            normalizedText: mcdonalds
+            probability: 0.7307
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 174
+            start: 151
+            description: null
+            displayUrl: twitter.com/PopCrave/statu…
+            expandedUrl: https://twitter.com/PopCrave/status/1540341761658085376
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/xBwcEf8fYq
+        }]
+    }
+    geo: null
+    id: 1540345825817026563
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 368384
+        quoteCount: 1331
+        replyCount: 1443
+        retweetCount: 73105
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1540341761658085376
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: history changing decisions made by people who are old enough to go into cardiac arrest with just one sip of a mcdonalds sprite. do we see the problem. https://t.co/xBwcEf8fYq
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 723659321343537152
+    contextAnnotations: null
+    conversationId: 1540360263265701888
+    createdAt: 2022-06-24T15:44:39Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:14:39Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540360263265701888]
+    entities: null
+    geo: null
+    id: 1540360263265701888
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 399105
+        quoteCount: 3962
+        replyCount: 832
+        retweetCount: 89344
+    }
+    referencedTweets: null
+    replySettings: following
+    source: null
+    text: Please don’t cut trans men and nonbinary people out of the conversation today. This is not just a women’s rights issue, anyone who can get pregnant is affected.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1540426160215040001]
+        pollIds: null
+    }
+    authorId: 2330691751
+    contextAnnotations: null
+    conversationId: 1540426336925360130
+    createdAt: 2022-06-24T20:07:13Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T20:37:13Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540426336925360130]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 29
+            start: 17
+            normalizedText: Supreme Court
+            probability: 0.8862
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 69
+            start: 46
+            description: null
+            displayUrl: pic.twitter.com/DvUQbCc51s
+            expandedUrl: https://twitter.com/kirstenappleton/status/1540426336925360130/video/1
+            images: null
+            mediaKey: 7_1540426160215040001
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/DvUQbCc51s
+        }]
+    }
+    geo: null
+    id: 1540426336925360130
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 762592
+        quoteCount: 7380
+        replyCount: 12902
+        retweetCount: 103076
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The scene at the Supreme Court this afternoon https://t.co/DvUQbCc51s
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 3229190376
+    contextAnnotations: null
+    conversationId: 1540376625077813248
+    createdAt: 2022-06-24T16:49:40Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T17:19:40Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540376625077813248]
+    entities: null
+    geo: null
+    id: 1540376625077813248
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 173427
+        quoteCount: 735
+        replyCount: 996
+        retweetCount: 28457
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Remember that Cops are going to be the ones enforcing abortion bans. The ones that Dems enthusiastically give more money to in their city budgets every year.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 3032109176
+    contextAnnotations: null
+    conversationId: 1540365499296411649
+    createdAt: 2022-06-24T16:05:28Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T16:35:28Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540365499296411649]
+    entities: null
+    geo: null
+    id: 1540365499296411649
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 789
+        quoteCount: 5
+        replyCount: 16
+        retweetCount: 86
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Really getting tired of living through historical events.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 15907183
+    contextAnnotations: null
+    conversationId: 1540348511031533568
+    createdAt: 2022-06-24T14:57:57Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:27:57Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540348511031533568]
+    entities: null
+    geo: null
+    id: 1540348511031533568
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 6733
+        quoteCount: 38
+        replyCount: 59
+        retweetCount: 1255
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: One of their next goals is overturning same-sex marriage.
+    
+    That fight is well on its way. Don’t claim no one told you when it happens.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1456381091598700556
+    contextAnnotations: null
+    conversationId: 1540010611001663489
+    createdAt: 2022-06-23T16:35:16Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-23T17:05:16Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540010611001663489]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 44
+            start: 32
+            normalizedText: Supreme Court
+            probability: 0.7477
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1540010611001663489
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 211983
+        quoteCount: 2970
+        replyCount: 8470
+        retweetCount: 57944
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Let me get this straight: 
+    
+    The Supreme Court says states cannot decide how to regulate guns—yet only the states can decide how to regulate a woman’s body.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 10454572
+    contextAnnotations: null
+    conversationId: 1540353093275090946
+    createdAt: 2022-06-24T15:16:10Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T15:46:10Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540353093275090946]
+    entities: null
+    geo: null
+    id: 1540353093275090946
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 106132
+        quoteCount: 505
+        replyCount: 184
+        retweetCount: 17143
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: intellectually knowing that something is coming does not prepare you for the devastation in the body when it hits
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 715582520197156865
+    contextAnnotations: null
+    conversationId: 1540214709042814976
+    createdAt: 2022-06-24T06:06:17Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-06-24T06:36:17Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1540214709042814976]
+    entities: null
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: b19a2cc5134b7e0a
+    }
+    id: 1540214709042814976
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 231
+        quoteCount: 4
+        replyCount: 3
+        retweetCount: 28
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: This is the gaslighting era of sexism when everyone tells you every day you're being treated as an equal, but for sure you never actually are being treated as an equal
+    withheld: null
+}]

@@ -1,0 +1,5107 @@
+[class Tweet {
+    attachments: null
+    authorId: 200977317
+    contextAnnotations: null
+    conversationId: 1569625896344260614
+    createdAt: 2022-09-13T09:55:51Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T10:25:51Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569625898730803202]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 20
+            start: 8
+            normalizedText: Ranbir Kapoor
+            probability: 0.9476
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569625898730803202
+    inReplyToUserId: 200977317
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 908
+        quoteCount: 1
+        replyCount: 5
+        retweetCount: 31
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569625896344260614
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: We meet Ranbir Kapoor's character. He is a DJ. He sees girl at a Pandal...realises he loves her. He loses her. He sees her at a party. He stares at her. Music still plays. His friends say they need to leave. He packs his headphones. Music still plays. Worst DJ ever. (2)
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568410270422138881]
+        pollIds: null
+    }
+    authorId: 727338733423464448
+    contextAnnotations: null
+    conversationId: 1569370256245760002
+    createdAt: 2022-09-12T17:00:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T17:30:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569370256245760002]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/krvWMzw5mf
+            expandedUrl: https://twitter.com/RespectfulMemes/status/1569370256245760002/photo/1
+            images: null
+            mediaKey: 3_1568410270422138881
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/krvWMzw5mf
+        }]
+    }
+    geo: null
+    id: 1569370256245760002
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 37182
+        quoteCount: 20
+        replyCount: 18
+        retweetCount: 2332
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/krvWMzw5mf
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1302746258646343681
+    contextAnnotations: null
+    conversationId: 1569381150036226053
+    createdAt: 2022-09-12T17:43:18Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T18:13:18Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569381150036226053]
+    entities: null
+    geo: null
+    id: 1569381150036226053
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 183284
+        quoteCount: 1243
+        replyCount: 443
+        retweetCount: 24801
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: non smokers should be allowed to go outside and scream for 5 minutes in lieu of a smoke break
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569653252123426816]
+        pollIds: null
+    }
+    authorId: 1449515647189151745
+    contextAnnotations: null
+    conversationId: 1569653259618623488
+    createdAt: 2022-09-13T11:44:34Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T12:14:34Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569653259618623488]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 50
+            start: 27
+            description: null
+            displayUrl: pic.twitter.com/d3fd3xs2yd
+            expandedUrl: https://twitter.com/clayyytonbigsby/status/1569653259618623488/photo/1
+            images: null
+            mediaKey: 3_1569653252123426816
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/d3fd3xs2yd
+        }]
+    }
+    geo: null
+    id: 1569653259618623488
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 368
+        quoteCount: 0
+        replyCount: 6
+        retweetCount: 7
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: "Dad, aren't you like 30?" https://t.co/d3fd3xs2yd
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569342956259229696]
+        pollIds: null
+    }
+    authorId: 1154708530219192322
+    contextAnnotations: null
+    conversationId: 1569342959149281280
+    createdAt: 2022-09-12T15:11:33Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T15:41:33Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569342959149281280]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 40
+            start: 17
+            description: null
+            displayUrl: pic.twitter.com/VEBy5eBzkU
+            expandedUrl: https://twitter.com/nocontextscats/status/1569342959149281280/photo/1
+            images: null
+            mediaKey: 3_1569342956259229696
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/VEBy5eBzkU
+        }]
+    }
+    geo: null
+    id: 1569342959149281280
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 13606
+        quoteCount: 64
+        replyCount: 42
+        retweetCount: 2011
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I need this book https://t.co/VEBy5eBzkU
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 3327301130
+    contextAnnotations: null
+    conversationId: 1569521220487630851
+    createdAt: 2022-09-13T02:59:53Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T03:29:53Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569521220487630851]
+    entities: null
+    geo: null
+    id: 1569521220487630851
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2316
+        quoteCount: 16
+        replyCount: 12
+        retweetCount: 201
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Pride &amp; Prejudice is a classic love story about a woman falling in love with a giant house, and learning to overcome her prejudice and distrust (because of said house)
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569581141383946240]
+        pollIds: null
+    }
+    authorId: 1189816220163432448
+    contextAnnotations: null
+    conversationId: 1569581146446659585
+    createdAt: 2022-09-13T06:58:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T07:28:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569581146446659585]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 41
+            start: 30
+            normalizedText: Padley Gorge
+            probability: 0.5502
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 244
+            start: 232
+            normalizedText: Burbage Brook
+            probability: 0.8516
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 304
+            start: 281
+            description: null
+            displayUrl: pic.twitter.com/noJgoR9YEa
+            expandedUrl: https://twitter.com/peaklass1/status/1569581146446659585/photo/1
+            images: null
+            mediaKey: 3_1569581141383946240
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/noJgoR9YEa
+        }]
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: 0415f55e987e8409
+    }
+    id: 1569581146446659585
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2991
+        quoteCount: 18
+        replyCount: 89
+        retweetCount: 289
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The most beautiful morning in Padley Gorge, the woodlands covered in soft mists, making every leaf glow with a green that seemed Spring-like again. This young lad was enjoying it as much as I was, pausing to drink the cool water in Burbage Brook and pose perfectly for a portrait. https://t.co/noJgoR9YEa
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569490306768277509, 3_1569490306651009026]
+        pollIds: null
+    }
+    authorId: 1052294855248949249
+    contextAnnotations: null
+    conversationId: 1569490312065855488
+    createdAt: 2022-09-13T00:57:04Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T01:27:04Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569490312065855488]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 73
+            start: 50
+            description: null
+            displayUrl: pic.twitter.com/QAOBOGFVqN
+            expandedUrl: https://twitter.com/aubviouslynot/status/1569490312065855488/photo/1
+            images: null
+            mediaKey: 3_1569490306768277509
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/QAOBOGFVqN
+        }, class UrlEntity {
+            end: 73
+            start: 50
+            description: null
+            displayUrl: pic.twitter.com/QAOBOGFVqN
+            expandedUrl: https://twitter.com/aubviouslynot/status/1569490312065855488/photo/1
+            images: null
+            mediaKey: 3_1569490306651009026
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/QAOBOGFVqN
+        }]
+    }
+    geo: null
+    id: 1569490312065855488
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 205
+        quoteCount: 0
+        replyCount: 6
+        retweetCount: 1
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I can’t believe my baby is turning 4 this fall 🥺🥹 https://t.co/QAOBOGFVqN
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1569575375545729024
+    createdAt: 2022-09-13T06:35:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T07:05:05Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569575375545729024]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 93
+            start: 70
+            description: null
+            displayUrl: twitter.com/TweetsOfCats/s…
+            expandedUrl: https://twitter.com/TweetsOfCats/status/1569312181371428864
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/RaVWvN8VMv
+        }]
+    }
+    geo: null
+    id: 1569575375545729024
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 4996
+        quoteCount: 6
+        replyCount: 25
+        retweetCount: 262
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569312181371428864
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: It’s for keeping my brain stuff on the inside. But also for smooching https://t.co/RaVWvN8VMv
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569373320008564739, 3_1569373602918858752]
+        pollIds: null
+    }
+    authorId: 198795374
+    contextAnnotations: null
+    conversationId: 1569374533915938822
+    createdAt: 2022-09-12T17:17:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T17:47:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569374533915938822]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 34
+            start: 18
+            normalizedText: Bengaluru airport
+            probability: 0.8614
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 90
+            start: 85
+            normalizedText: Mumbai
+            probability: 0.9865
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 117
+            start: 94
+            description: null
+            displayUrl: pic.twitter.com/zl5kFaCuNa
+            expandedUrl: https://twitter.com/r0h1n/status/1569374533915938822/photo/1
+            images: null
+            mediaKey: 3_1569373320008564739
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/zl5kFaCuNa
+        }, class UrlEntity {
+            end: 117
+            start: 94
+            description: null
+            displayUrl: pic.twitter.com/zl5kFaCuNa
+            expandedUrl: https://twitter.com/r0h1n/status/1569374533915938822/photo/1
+            images: null
+            mediaKey: 3_1569373602918858752
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/zl5kFaCuNa
+        }]
+    }
+    geo: null
+    id: 1569374533915938822
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2817
+        quoteCount: 125
+        replyCount: 271
+        retweetCount: 313
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: A ~1 hour Uber to Bengaluru airport costs 60-130% the price of a ~1.5 hour flight to Mumbai 😐 https://t.co/zl5kFaCuNa
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569510708966051840]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1569510715073122304
+    createdAt: 2022-09-13T02:18:09Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-13T02:48:09Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569510715073122304]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 120
+            start: 97
+            description: null
+            displayUrl: pic.twitter.com/GkhvMpaPgH
+            expandedUrl: https://twitter.com/JortsTheCat/status/1569510715073122304/photo/1
+            images: null
+            mediaKey: 3_1569510708966051840
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/GkhvMpaPgH
+        }]
+    }
+    geo: null
+    id: 1569510715073122304
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9059
+        quoteCount: 27
+        replyCount: 93
+        retweetCount: 378
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: You don’t ever have to wonder if I’m wearing a wire under my clothes bc I don’t wear any clothes https://t.co/GkhvMpaPgH
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 5478442
+    contextAnnotations: null
+    conversationId: 1569123477143318528
+    createdAt: 2022-09-12T00:39:24Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T01:09:24Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569123477143318528]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 14
+            start: 13
+            normalizedText: UI
+            probability: 0.4071
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569123477143318528
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 36637
+        quoteCount: 550
+        replyCount: 617
+        retweetCount: 4036
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Touch screen UI’s in cars are going to kill someone. It forces me to look at the screen instead of the road. Physical knobs and sliders allowed you to use your sense of touch to replace your eyes.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569130604020600833]
+        pollIds: null
+    }
+    authorId: 1093487052
+    contextAnnotations: null
+    conversationId: 1569130607082348549
+    createdAt: 2022-09-12T01:07:44Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T01:37:44Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569130607082348549]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 28
+            start: 18
+            normalizedText: Mary Oliver
+            probability: 0.9373
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 54
+            start: 31
+            description: null
+            displayUrl: pic.twitter.com/wwTwR8TsmH
+            expandedUrl: https://twitter.com/MayaCPopa/status/1569130607082348549/photo/1
+            images: null
+            mediaKey: 3_1569130604020600833
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/wwTwR8TsmH
+        }]
+    }
+    geo: null
+    id: 1569130607082348549
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2770
+        quoteCount: 29
+        replyCount: 12
+        retweetCount: 497
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Happy birthday to Mary Oliver: https://t.co/wwTwR8TsmH
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569386586864865280]
+        pollIds: null
+    }
+    authorId: 3689795235
+    contextAnnotations: null
+    conversationId: 1569371978015850496
+    createdAt: 2022-09-12T18:04:57Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T18:34:57Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569386597254107136]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 89
+            start: 66
+            description: null
+            displayUrl: pic.twitter.com/CvWiVLqW66
+            expandedUrl: https://twitter.com/DannyBate4/status/1569386597254107136/photo/1
+            images: null
+            mediaKey: 3_1569386586864865280
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/CvWiVLqW66
+        }]
+    }
+    geo: null
+    id: 1569386597254107136
+    inReplyToUserId: 3689795235
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 109
+        quoteCount: 0
+        replyCount: 5
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569376129005371394
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Portrait of the birthday boy as an (increasingly less) young man. https://t.co/CvWiVLqW66
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569374199235444739, 3_1569375267734409218, 3_1569375919353090050, 3_1569376101532581891]
+        pollIds: null
+    }
+    authorId: 3689795235
+    contextAnnotations: null
+    conversationId: 1569371978015850496
+    createdAt: 2022-09-12T17:23:21Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T17:53:21Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569376129005371394]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 79
+            start: 56
+            description: null
+            displayUrl: pic.twitter.com/Sd0ApGYAB9
+            expandedUrl: https://twitter.com/DannyBate4/status/1569376129005371394/photo/1
+            images: null
+            mediaKey: 3_1569374199235444739
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/Sd0ApGYAB9
+        }, class UrlEntity {
+            end: 79
+            start: 56
+            description: null
+            displayUrl: pic.twitter.com/Sd0ApGYAB9
+            expandedUrl: https://twitter.com/DannyBate4/status/1569376129005371394/photo/1
+            images: null
+            mediaKey: 3_1569375267734409218
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/Sd0ApGYAB9
+        }, class UrlEntity {
+            end: 79
+            start: 56
+            description: null
+            displayUrl: pic.twitter.com/Sd0ApGYAB9
+            expandedUrl: https://twitter.com/DannyBate4/status/1569376129005371394/photo/1
+            images: null
+            mediaKey: 3_1569375919353090050
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/Sd0ApGYAB9
+        }, class UrlEntity {
+            end: 79
+            start: 56
+            description: null
+            displayUrl: pic.twitter.com/Sd0ApGYAB9
+            expandedUrl: https://twitter.com/DannyBate4/status/1569376129005371394/photo/1
+            images: null
+            mediaKey: 3_1569376101532581891
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/Sd0ApGYAB9
+        }]
+    }
+    geo: null
+    id: 1569376129005371394
+    inReplyToUserId: 3689795235
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 216
+        quoteCount: 2
+        replyCount: 10
+        retweetCount: 5
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569371978015850496
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Absolutely worth the wait. I may or may not have cried. https://t.co/Sd0ApGYAB9
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569371968507453442]
+        pollIds: null
+    }
+    authorId: 3689795235
+    contextAnnotations: null
+    conversationId: 1569371978015850496
+    createdAt: 2022-09-12T17:06:51Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T17:36:51Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569371978015850496]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 100
+            start: 94
+            normalizedText: Ravenna
+            probability: 0.9566
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 303
+            start: 280
+            description: null
+            displayUrl: pic.twitter.com/lEq7Ebr8Ww
+            expandedUrl: https://twitter.com/DannyBate4/status/1569371978015850496/photo/1
+            images: null
+            mediaKey: 3_1569371968507453442
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/lEq7Ebr8Ww
+        }]
+    }
+    geo: null
+    id: 1569371978015850496
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 536
+        quoteCount: 0
+        replyCount: 38
+        retweetCount: 7
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I reckon I was 14 when I first read about and longed to visit a beautiful Italian city called Ravenna – a city filled with ancient churches, golden mosaics, and layers on layers of late antique and early medieval history.
+    
+    So, all in all, not a bad place to celebrate a birthday. https://t.co/lEq7Ebr8Ww
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569327988285530120]
+        pollIds: null
+    }
+    authorId: 2332206228
+    contextAnnotations: null
+    conversationId: 1569327992249139204
+    createdAt: 2022-09-12T14:12:04Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T14:42:04Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569327992249139204]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 13
+            start: 4
+            normalizedText: Wendy Cope
+            probability: 0.6589
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 39
+            start: 16
+            description: null
+            displayUrl: pic.twitter.com/X5D8r1f2W1
+            expandedUrl: https://twitter.com/nktgill/status/1569327992249139204/photo/1
+            images: null
+            mediaKey: 3_1569327988285530120
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/X5D8r1f2W1
+        }]
+    }
+    geo: null
+    id: 1569327992249139204
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 7672
+        quoteCount: 121
+        replyCount: 37
+        retweetCount: 1234
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Ah, Wendy Cope! https://t.co/X5D8r1f2W1
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1369424951397257222
+    contextAnnotations: null
+    conversationId: 1569065966956576768
+    createdAt: 2022-09-11T20:50:53Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T21:20:53Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569065966956576768]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 32
+            start: 15
+            normalizedText: Queen Elizabeth II
+            probability: 0.8743
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569065966956576768
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 439704
+        quoteCount: 2502
+        replyCount: 1326
+        retweetCount: 27642
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: BREAKING NEWS: Queen Elizabeth II has passed away at age 96
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 3140662712
+    contextAnnotations: null
+    conversationId: 1569076008875364352
+    createdAt: 2022-09-11T21:30:47Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T22:00:47Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569076008875364352]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 181
+            start: 177
+            normalizedText: Earth
+            probability: 0.4768
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569076008875364352
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 662
+        quoteCount: 8
+        replyCount: 67
+        retweetCount: 131
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Given the scale of unprecedented extreme weather in the last 24 months, it is possible a tipping point has been tipped, is in the processes of tipping, or is imminent on planet Earth.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1569358040381390849]
+        pollIds: null
+    }
+    authorId: 2832807293
+    contextAnnotations: null
+    conversationId: 1569358290311692290
+    createdAt: 2022-09-12T16:12:28Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T16:42:28Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569358290311692290]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 55
+            start: 32
+            description: null
+            displayUrl: pic.twitter.com/aCmDTGZXaW
+            expandedUrl: https://twitter.com/hiitaylorblake/status/1569358290311692290/video/1
+            images: null
+            mediaKey: 7_1569358040381390849
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/aCmDTGZXaW
+        }]
+    }
+    geo: null
+    id: 1569358290311692290
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 36622
+        quoteCount: 333
+        replyCount: 330
+        retweetCount: 3028
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: “Are you my mother?” circa 2022 https://t.co/aCmDTGZXaW
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1569026705679069186
+    createdAt: 2022-09-11T18:16:47Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T18:46:47Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569027188493815808]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 69
+            start: 66
+            normalizedText: Alia
+            probability: 0.6129
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569027188493815808
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 40
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 1
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569026705679069186
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: I know this sounds impossible but dialogue delivery, particularly Alia's had the exact same intonation, pitch, and cringe inducing awkardness that bad dubbing artists used to have back in the day. Truly incredible to watch
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-12T10:47:47Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T11:17:47Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569276582199705603]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 109
+            start: 97
+            normalizedText: Madhuri Dixit
+            probability: 0.9804
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569276582199705603
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 42
+        quoteCount: 1
+        replyCount: 5
+        retweetCount: 1
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569276574683533312
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Anyway, in conclusion, if I had to point out my favourite part of the movie it would have to be  Madhuri Dixit ad that was playing during the interval. Was a relief to watch good acting and great screen presence suddenly when you had stopped expecting it. Fin
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-12T10:47:43Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T11:17:43Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569276564436828160]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 256
+            start: 252
+            normalizedText: India
+            probability: 0.8425
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569276564436828160
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 28
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569276558359302145
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: propaganda movie, is that blessedly it posits no Muslim as the super villain, but only because it instead creates a world where the minority does not exist at all. Not even in token representation. RIght from the first frame the film establishes links India to munis and rishis
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2683311810
+    contextAnnotations: null
+    conversationId: 1569010193249230849
+    createdAt: 2022-09-11T17:09:15Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T17:39:15Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569010193249230849]
+    entities: null
+    geo: null
+    id: 1569010193249230849
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 191219
+        quoteCount: 2045
+        replyCount: 406
+        retweetCount: 13980
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: it’s sooo important to go w ur mom to stores
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 275730435
+    contextAnnotations: null
+    conversationId: 1569110156151255040
+    createdAt: 2022-09-11T23:46:28Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T00:16:28Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569110156151255040]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 44
+            start: 21
+            description: null
+            displayUrl: twitter.com/jameshannah/st…
+            expandedUrl: https://twitter.com/jameshannah/status/1568869693846331393
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/CbHJn22Ww0
+        }]
+    }
+    geo: null
+    id: 1569110156151255040
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 4176
+        quoteCount: 19
+        replyCount: 72
+        retweetCount: 321
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568869693846331393
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: lion &amp; prejudice https://t.co/CbHJn22Ww0
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 372346211
+    contextAnnotations: null
+    conversationId: 1569209695507984384
+    createdAt: 2022-09-12T06:22Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T06:52Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569209695507984384]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 56
+            start: 52
+            normalizedText: Noida
+            probability: 0.5297
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 111
+            start: 107
+            normalizedText: Salma
+            probability: 0.665
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 228
+            start: 222
+            normalizedText: Aadhaar
+            probability: 0.6126
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569209695507984384
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 284
+        quoteCount: 7
+        replyCount: 17
+        retweetCount: 89
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Just to give an example of just how bigoted some of Noida society residents can be: A person I know called Salma went to look for work. She'd finished with the dishes and was proceeding to mop,when the woman asked for her Aadhaar card and lost it completely. Accused her of lying
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-12T07:40:03Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T08:10:03Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569229337202950149]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 14
+            start: 9
+            normalizedText: Ranbir
+            probability: 0.4708
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 180
+            start: 175
+            normalizedText: Ranbir
+            probability: 0.4968
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569229337202950149
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 29
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569228964866199552
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Ditto re Ranbir saying "brahmastra ek pizze ki tarah hain": Movie would have been so much more based if they really had made the brahmasta into a pizza (which would have made Ranbir part pizza himself)
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-12T07:28:57Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T07:58:57Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569226544626962434]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 80
+            start: 77
+            normalizedText: Alia
+            probability: 0.7105
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 93
+            start: 88
+            normalizedText: Ranbir
+            probability: 0.5764
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 123
+            start: 107
+            normalizedText: Kapadia Taragaren
+            probability: 0.4674
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 152
+            start: 147
+            normalizedText: Ranbir
+            probability: 0.6087
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 210
+            start: 205
+            normalizedText: Ranbir
+            probability: 0.5587
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569226544626962434
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 42
+        quoteCount: 1
+        replyCount: 1
+        retweetCount: 0
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569226538188685313
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: And if the point was still too fine thr film drives it in with a scene where Alia tells Ranbir that Dimple Kapadia Taragaren explained to her that Ranbir needs to be turned on and then kisses him and then Ranbir can make fire without his magical zippo lighter. 
+    
+    I kid. You. Not.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-12T07:28:56Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T07:58:56Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569226538188685313]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 32
+            start: 28
+            normalizedText: Akiat
+            probability: 0.4944
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 108
+            start: 103
+            normalizedText: Ranbir
+            probability: 0.4675
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 207
+            start: 204
+            normalizedText: Alia
+            probability: 0.5582
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 217
+            start: 212
+            normalizedText: Ranbir
+            probability: 0.554
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1569226538188685313
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 49
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 2
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1569041238216810496
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Actually, wait, it's worse: Akiat's one purpose in this movie is LITERALLY, and I kid you not, to turn Ranbir on. And no this is mot me paraphrasing, this is what the film LITERALLY says, more than once. Alia is Ranbir's button and she can turn him ON with her love
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569217764195442690]
+        pollIds: null
+    }
+    authorId: 1449515647189151745
+    contextAnnotations: null
+    conversationId: 1569217768704323584
+    createdAt: 2022-09-12T06:54:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T07:24:05Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569217768704323584]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 36
+            start: 13
+            description: null
+            displayUrl: pic.twitter.com/0ryDkCuIsl
+            expandedUrl: https://twitter.com/clayyytonbigsby/status/1569217768704323584/photo/1
+            images: null
+            mediaKey: 3_1569217764195442690
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/0ryDkCuIsl
+        }]
+    }
+    geo: null
+    id: 1569217768704323584
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 423
+        quoteCount: 2
+        replyCount: 14
+        retweetCount: 3
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: morning lads https://t.co/0ryDkCuIsl
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569151359064350727, 3_1569151359060185088]
+        pollIds: null
+    }
+    authorId: 1334791062510977024
+    contextAnnotations: null
+    conversationId: 1569151368379924481
+    createdAt: 2022-09-12T02:30:14Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-12T03:00:14Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569151368379924481]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 44
+            start: 35
+            normalizedText: craigslist
+            probability: 0.7225
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 123
+            start: 100
+            description: null
+            displayUrl: pic.twitter.com/McToJ50WtI
+            expandedUrl: https://twitter.com/feederofcats/status/1569151368379924481/photo/1
+            images: null
+            mediaKey: 3_1569151359064350727
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/McToJ50WtI
+        }, class UrlEntity {
+            end: 123
+            start: 100
+            description: null
+            displayUrl: pic.twitter.com/McToJ50WtI
+            expandedUrl: https://twitter.com/feederofcats/status/1569151368379924481/photo/1
+            images: null
+            mediaKey: 3_1569151359060185088
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/McToJ50WtI
+        }]
+    }
+    geo: null
+    id: 1569151368379924481
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 18646
+        quoteCount: 31
+        replyCount: 190
+        retweetCount: 917
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: these are the pics im gonna use on craigslist to get rid of him if he bites my hand one more time 💗 https://t.co/McToJ50WtI
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1569098156025196544]
+        pollIds: null
+    }
+    authorId: 1334791062510977024
+    contextAnnotations: null
+    conversationId: 1569098289609580544
+    createdAt: 2022-09-11T22:59:19Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T23:29:19Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569098289609580544]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 40
+            start: 17
+            description: null
+            displayUrl: pic.twitter.com/z0Ns5ceudJ
+            expandedUrl: https://twitter.com/feederofcats/status/1569098289609580544/video/1
+            images: null
+            mediaKey: 7_1569098156025196544
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/z0Ns5ceudJ
+        }]
+    }
+    geo: null
+    id: 1569098289609580544
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9135
+        quoteCount: 18
+        replyCount: 98
+        retweetCount: 570
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: round one. FIGHT https://t.co/z0Ns5ceudJ
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1510184050639912963
+    contextAnnotations: null
+    conversationId: 1568855614293700608
+    createdAt: 2022-09-11T06:55:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T07:25:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568855614293700608]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 26
+            start: 23
+            normalizedText: alia
+            probability: 0.6304
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 56
+            start: 47
+            normalizedText: brahmastra
+            probability: 0.5416
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 77
+            start: 73
+            normalizedText: shiva
+            probability: 0.4626
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568855614293700608
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2222
+        quoteCount: 70
+        replyCount: 4
+        retweetCount: 217
+    }
+    referencedTweets: null
+    replySettings: following
+    source: null
+    text: every day for 400 days alia came on the set of brahmastra just to shout  shiva three to four times and went home
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568994133405999105
+    createdAt: 2022-09-11T21:50:33Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T22:20:33Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1569080983080833024]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 19
+            start: 16
+            normalizedText: Zest
+            probability: 0.6284
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 15
+            start: 0
+            id: 81478236
+            username: NeolithicSheep
+        }]
+        urls: null
+    }
+    geo: null
+    id: 1569080983080833024
+    inReplyToUserId: 81478236
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 771
+        quoteCount: 1
+        replyCount: 5
+        retweetCount: 5
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568994133405999105
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @NeolithicSheep Zest for life
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 81478236
+    contextAnnotations: null
+    conversationId: 1568994133405999105
+    createdAt: 2022-09-11T16:05:26Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T16:35:26Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568994133405999105]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 18
+            start: 9
+            normalizedText: THEODOSIUS
+            probability: 0.7189
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568994133405999105
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 845
+        quoteCount: 0
+        replyCount: 58
+        retweetCount: 7
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: WHY MUST THEODOSIUS CONSTANTLY BRING LIVE BUGS TO THE BED AND TURN THEM LOOSE
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1569033358012973058]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1569033366833602560
+    createdAt: 2022-09-11T18:41:20Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T19:11:20Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1569033366833602560]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 117
+            start: 94
+            description: null
+            displayUrl: pic.twitter.com/52xtXdnODk
+            expandedUrl: https://twitter.com/JortsTheCat/status/1569033366833602560/photo/1
+            images: null
+            mediaKey: 3_1569033358012973058
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/52xtXdnODk
+        }]
+    }
+    geo: null
+    id: 1569033366833602560
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 8915
+        quoteCount: 12
+        replyCount: 60
+        retweetCount: 366
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Excuse me but this box is in the recycling and I’m not done with it (just a mistake I’m sure) https://t.co/52xtXdnODk
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568952183269253120]
+        pollIds: null
+    }
+    authorId: 19234845
+    contextAnnotations: null
+    conversationId: 1568952188579516416
+    createdAt: 2022-09-11T13:18:46Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T13:48:46Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568952188579516416]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 78
+            start: 55
+            description: null
+            displayUrl: pic.twitter.com/06IJyH46zz
+            expandedUrl: https://twitter.com/stevenperkins/status/1568952188579516416/photo/1
+            images: null
+            mediaKey: 3_1568952183269253120
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/06IJyH46zz
+        }]
+    }
+    geo: null
+    id: 1568952188579516416
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 64695
+        quoteCount: 430
+        replyCount: 366
+        retweetCount: 7306
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: just did a very undignified public snort-laugh at this https://t.co/06IJyH46zz
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568984351605665793]
+        pollIds: null
+    }
+    authorId: 1248839316098318336
+    contextAnnotations: null
+    conversationId: 1568984383457214464
+    createdAt: 2022-09-11T15:26:41Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T15:56:41Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568984383457214464]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 28
+            start: 5
+            description: null
+            displayUrl: pic.twitter.com/f4iJPk25zk
+            expandedUrl: https://twitter.com/apparitionnow/status/1568984383457214464/photo/1
+            images: null
+            mediaKey: 3_1568984351605665793
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/f4iJPk25zk
+        }]
+    }
+    geo: null
+    id: 1568984383457214464
+    inReplyToUserId: null
+    lang: und
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 11627
+        quoteCount: 269
+        replyCount: 192
+        retweetCount: 1293
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: 😭😭😭😭 https://t.co/f4iJPk25zk
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-11T15:53:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T16:23:01Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568991008280711170]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 120
+            start: 113
+            normalizedText: Hindutva
+            probability: 0.5122
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568991008280711170
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 154
+        quoteCount: 4
+        replyCount: 1
+        retweetCount: 18
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568990017187647488
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Frankly can't decide if it's funny or scary that they made a movie so blatantly and shamelessly pandering to the Hindutva brigade and it's those lot boycotting this movie. But does explain why they made this movie so. Incredibly. MINDLESSLY stupid
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-11T15:49:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T16:19:05Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568990017187647488]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 102
+            start: 90
+            normalizedText: Ranbir Kapoor
+            probability: 0.9639
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 117
+            start: 108
+            normalizedText: Alia Bhatt
+            probability: 0.9426
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568990017187647488
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 197
+        quoteCount: 9
+        replyCount: 4
+        retweetCount: 14
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568989423232258048
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Also did not know it was humanly possible for two people to have as little chemistry than Ranbir Kapoor and Alia Bhatt like legit the rando sitting next to me that I am in an armrest battle with have more chemistry
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-11T15:45:32Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T16:15:32Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568989124232900611]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 47
+            start: 36
+            normalizedText: Harry Potter
+            probability: 0.8029
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 68
+            start: 55
+            normalizedText: Dany Targarean
+            probability: 0.6193
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 100
+            start: 76
+            normalizedText: Avatar the Last Airbender
+            probability: 0.8395
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568989124232900611
+    inReplyToUserId: 473012759
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 77
+        quoteCount: 2
+        replyCount: 3
+        retweetCount: 3
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568988278615085056
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: Anyway in short, after having given Harry Potter meets Dany Targarean meets Avatar the Last Airbender but unimaginably lame back story they and some absolutely mindless everything (love story/plot/characters/etc) they have arrived at what appears to be the post apocalyptic
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 205445462
+    contextAnnotations: null
+    conversationId: 1568968869401841669
+    createdAt: 2022-09-11T14:25:03Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T14:55:03Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568968869401841669]
+    entities: null
+    geo: null
+    id: 1568968869401841669
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 504314
+        quoteCount: 3013
+        replyCount: 1626
+        retweetCount: 31876
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: my son has recently informed me the ‘wall people’ who ‘always have their eyes open’ don’t like us anymore. just curious if anyone is free tonight to help me move out
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 881615056437297152
+    contextAnnotations: null
+    conversationId: 1568458524014919681
+    createdAt: 2022-09-10T04:37:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T05:07:07Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568458524014919681]
+    entities: null
+    geo: null
+    id: 1568458524014919681
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 48560
+        quoteCount: 547
+        replyCount: 922
+        retweetCount: 9224
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I'm terrified by what we're seeing this summer, and by knowing how fast it's getting worse, and by how there's not really a ceiling on how bad it can get, and by how almost everyone still pretends business as usual can go on. Those who are not terrified don't have a clue.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568921937749098497]
+        pollIds: null
+    }
+    authorId: 1449515647189151745
+    contextAnnotations: null
+    conversationId: 1568922099045253121
+    createdAt: 2022-09-11T11:19:12Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T11:49:12Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568922099045253121]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 39
+            start: 16
+            description: null
+            displayUrl: pic.twitter.com/n27e5H8ach
+            expandedUrl: https://twitter.com/clayyytonbigsby/status/1568922099045253121/photo/1
+            images: null
+            mediaKey: 3_1568921937749098497
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/n27e5H8ach
+        }]
+    }
+    geo: null
+    id: 1568922099045253121
+    inReplyToUserId: null
+    lang: is
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 280
+        quoteCount: 0
+        replyCount: 7
+        retweetCount: 8
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: flying bobbatlu https://t.co/n27e5H8ach
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1088878867463528455
+    contextAnnotations: null
+    conversationId: 1568963101604839426
+    createdAt: 2022-09-11T14:02:08Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T14:32:08Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568963101604839426]
+    entities: null
+    geo: null
+    id: 1568963101604839426
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1723
+        quoteCount: 14
+        replyCount: 56
+        retweetCount: 37
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: AYE I TOOK A TRAIN FROM DADAR AND IN THE TIME IT TOOK TO TRAVEL ONE STATION, SOMEONE STOLE MY WALLET, REMOVED THE MONEY AND SOMEHOW PUT IT BACK TOO WTF I'M NOT EVEN MAD I'M IMPRESSED
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568987937362288641
+    createdAt: 2022-09-11T15:40:49Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T16:10:49Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568987937362288641]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 21
+            start: 12
+            normalizedText: Brahmastra
+            probability: 0.5711
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568987937362288641
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 372
+        quoteCount: 37
+        replyCount: 14
+        retweetCount: 31
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Interval of Brahmastra and this is the lamest stupidest Make Hinduism Cool Again cringe fest I ever seen.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568667963498061828]
+        pollIds: null
+    }
+    authorId: 1372837930650234880
+    contextAnnotations: null
+    conversationId: 1568667969743618049
+    createdAt: 2022-09-10T18:29:23Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T18:59:23Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568667969743618049]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 99
+            start: 76
+            description: null
+            displayUrl: pic.twitter.com/pokdsKbOnI
+            expandedUrl: https://twitter.com/PhilipProudfoot/status/1568667969743618049/photo/1
+            images: null
+            mediaKey: 3_1568667963498061828
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/pokdsKbOnI
+        }]
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: 573ede7f6c450804
+    }
+    id: 1568667969743618049
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 275033
+        quoteCount: 3031
+        replyCount: 938
+        retweetCount: 26871
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: And now, for the most important moment in coronation: the hard drive check. https://t.co/pokdsKbOnI
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1204070368425775104
+    contextAnnotations: null
+    conversationId: 1568764941733187585
+    createdAt: 2022-09-11T00:54:43Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T01:24:43Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568764941733187585]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 12
+            start: 8
+            normalizedText: Jorts
+            probability: 0.6089
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 55
+            start: 32
+            description: null
+            displayUrl: twitter.com/JortsTheCat/st…
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568750920539975681
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/KP7C9z1gHW
+        }]
+    }
+    geo: null
+    id: 1568764941733187585
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 952
+        quoteCount: 0
+        replyCount: 1
+        retweetCount: 14
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568750920539975681
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: New fav Jorts pic just dropped: https://t.co/KP7C9z1gHW
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 2493543295
+    contextAnnotations: null
+    conversationId: 1568422057146290177
+    createdAt: 2022-09-10T02:12:12Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T02:42:12Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568422057146290177]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 90
+            start: 79
+            normalizedText: Columbus Day
+            probability: 0.6921
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 108
+            start: 106
+            normalizedText: Day
+            probability: 0.5854
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568422057146290177
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 97504
+        quoteCount: 290
+        replyCount: 421
+        retweetCount: 18584
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: “Don’t celebrate the death of anybody,” brought to you by those that celebrate Columbus Day, Independence Day, and Thanksgiving.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1294614279287521281
+    contextAnnotations: null
+    conversationId: 1568687692753551360
+    createdAt: 2022-09-10T19:47:45Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T20:17:45Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568687692753551360]
+    entities: null
+    geo: null
+    id: 1568687692753551360
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 29
+        quoteCount: 0
+        replyCount: 2
+        retweetCount: 0
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: rich irl just gifted his girlfriend the full dyson airwrap set….god i see what ur doing for others
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1457558434044203013
+    contextAnnotations: null
+    conversationId: 1568765300967079936
+    createdAt: 2022-09-11T00:56:08Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T01:26:08Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568765300967079936]
+    entities: null
+    geo: null
+    id: 1568765300967079936
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 41451
+        quoteCount: 889
+        replyCount: 256
+        retweetCount: 2290
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Someday a woman way out of your league will have to accept the painful truth that she has incredible chemistry with you. It will kill her inside how well you flow
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1568845322427797504]
+        pollIds: null
+    }
+    authorId: 1283295200249630721
+    contextAnnotations: null
+    conversationId: 1568845388785893376
+    createdAt: 2022-09-11T06:14:23Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T06:44:23Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568845388785893376]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 12
+            start: 0
+            normalizedText: meghan markle
+            probability: 0.9674
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 68
+            start: 45
+            description: null
+            displayUrl: pic.twitter.com/AY4jNKklv9
+            expandedUrl: https://twitter.com/shutup_humna/status/1568845388785893376/video/1
+            images: null
+            mediaKey: 7_1568845322427797504
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/AY4jNKklv9
+        }]
+    }
+    geo: null
+    id: 1568845388785893376
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: true
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9456
+        quoteCount: 236
+        replyCount: 123
+        retweetCount: 1469
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: meghan markle while the royal family mourns: https://t.co/AY4jNKklv9
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568764244702760962]
+        pollIds: null
+    }
+    authorId: 506556937
+    contextAnnotations: null
+    conversationId: 1568764250331713536
+    createdAt: 2022-09-11T00:51:58Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T01:21:58Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568764250331713536]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 86
+            start: 63
+            description: null
+            displayUrl: pic.twitter.com/oAbkcQWhxT
+            expandedUrl: https://twitter.com/mkhanpasha/status/1568764250331713536/photo/1
+            images: null
+            mediaKey: 3_1568764244702760962
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/oAbkcQWhxT
+        }]
+    }
+    geo: null
+    id: 1568764250331713536
+    inReplyToUserId: null
+    lang: de
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 277
+        quoteCount: 1
+        replyCount: 11
+        retweetCount: 6
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: bille de nakhre sohne lagde
+    mainun
+    bille de nakhre sohne lagde https://t.co/oAbkcQWhxT
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1568559190318145536]
+        pollIds: null
+    }
+    authorId: 3181579609
+    contextAnnotations: null
+    conversationId: 1568559265186463745
+    createdAt: 2022-09-10T11:17:25Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T11:47:25Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568559265186463745]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 75
+            start: 52
+            description: null
+            displayUrl: pic.twitter.com/02wjDbHI9i
+            expandedUrl: https://twitter.com/BerozgarDactar/status/1568559265186463745/video/1
+            images: null
+            mediaKey: 7_1568559190318145536
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/02wjDbHI9i
+        }]
+    }
+    geo: null
+    id: 1568559265186463745
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 3979
+        quoteCount: 89
+        replyCount: 71
+        retweetCount: 752
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: This is Relatable Af for all the brown families 😂😂😂 https://t.co/02wjDbHI9i
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1117384704808742912
+    contextAnnotations: null
+    conversationId: 1568660076667498498
+    createdAt: 2022-09-10T17:58:01Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T18:28:01Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568660076667498498]
+    entities: null
+    geo: null
+    id: 1568660076667498498
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 123
+        quoteCount: 1
+        replyCount: 5
+        retweetCount: 25
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I’m wondering if anyone ever really reaches out for help when they are really suicidal. I never do because I always feel like a burden and I have had people leave me hanging when I have been through bad days. I just don’t think ppl really know how to help severely depressed ppl.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1199031107166957570
+    contextAnnotations: null
+    conversationId: 1568282113862152194
+    createdAt: 2022-09-09T16:56:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T17:26:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568282113862152194]
+    entities: null
+    geo: null
+    id: 1568282113862152194
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 91560
+        quoteCount: 910
+        replyCount: 1176
+        retweetCount: 7575
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Being a single, childless woman in her 30's is terrible.
+    
+    All I ever do is exactly what I want, all the time.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568826697457303553]
+        pollIds: null
+    }
+    authorId: 965774983527043072
+    contextAnnotations: null
+    conversationId: 1568826698984046595
+    createdAt: 2022-09-11T05:00:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T05:30:07Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568826698984046595]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 3
+            start: 0
+            normalizedText: Java
+            probability: 0.593
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 50
+            start: 27
+            description: Posted in r/ProgrammerHumor by u/ThousandthStar • 3,961 points and 157 comments
+            displayUrl: reddit.com/r/programmerhu…
+            expandedUrl: https://www.reddit.com/r/programmerhumor/comments/xb18vc
+            images: [class UrlImage {
+                height: 300
+                url: https://pbs.twimg.com/news_img/1572531699132805120/31IQNSD5?format=jpg&name=orig
+                width: 600
+            }, class UrlImage {
+                height: 150
+                url: https://pbs.twimg.com/news_img/1572531699132805120/31IQNSD5?format=jpg&name=150x150
+                width: 150
+            }]
+            mediaKey: null
+            status: 200
+            title: Java naming conventions...
+            unwoundUrl: https://www.reddit.com/r/ProgrammerHumor/comments/xb18vc/java_naming_conventions/
+            url: https://t.co/11vKwWJVSl
+        }, class UrlEntity {
+            end: 74
+            start: 51
+            description: null
+            displayUrl: pic.twitter.com/KRSlUPBsme
+            expandedUrl: https://twitter.com/PR0GRAMMERHUM0R/status/1568826698984046595/photo/1
+            images: null
+            mediaKey: 3_1568826697457303553
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/KRSlUPBsme
+        }]
+    }
+    geo: null
+    id: 1568826698984046595
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 929
+        quoteCount: 4
+        replyCount: 9
+        retweetCount: 105
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Java naming conventions... https://t.co/11vKwWJVSl https://t.co/KRSlUPBsme
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568420802743123973]
+        pollIds: null
+    }
+    authorId: 506556937
+    contextAnnotations: null
+    conversationId: 1568420811018768387
+    createdAt: 2022-09-10T02:07:15Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T02:37:15Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568420811018768387]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 7
+            start: 0
+            normalizedText: Rasgulla
+            probability: 0.7558
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 104
+            start: 97
+            normalizedText: -rakshak
+            probability: 0.5175
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 138
+            start: 115
+            description: null
+            displayUrl: pic.twitter.com/UQ5D4TXT6k
+            expandedUrl: https://twitter.com/mkhanpasha/status/1568420811018768387/photo/1
+            images: null
+            mediaKey: 3_1568420802743123973
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/UQ5D4TXT6k
+        }]
+    }
+    geo: null
+    id: 1568420811018768387
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 578
+        quoteCount: 4
+        replyCount: 32
+        retweetCount: 16
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Rasgulla stole and ate ~1 kilo beef from the cutting board today. my dreams of his becoming a gāo-rakshak are over https://t.co/UQ5D4TXT6k
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1359760052215836672
+    contextAnnotations: null
+    conversationId: 1568227037554397186
+    createdAt: 2022-09-09T13:17:16Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T13:47:16Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568227037554397186]
+    entities: null
+    geo: null
+    id: 1568227037554397186
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1759
+        quoteCount: 42
+        replyCount: 20
+        retweetCount: 126
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: manipulating my mother into thinking i’m against the institution of marriage so that when i bring in my boyfriend of then 5/6 years she will hurriedly say yes 🙏🏼
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1379112337605558272
+    contextAnnotations: null
+    conversationId: 1568236857531727872
+    createdAt: 2022-09-09T13:56:17Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T14:26:17Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568236857531727872]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 9
+            start: 0
+            normalizedText: Bella ciao
+            probability: 0.6879
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 44
+            start: 38
+            normalizedText: Ganpati
+            probability: 0.6734
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568236857531727872
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2849
+        quoteCount: 15
+        replyCount: 31
+        retweetCount: 127
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Bella ciao has officially entered the Ganpati band playlist and I fear there's no going back☠️
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568612176675622915]
+        pollIds: null
+    }
+    authorId: 1315900388457934848
+    contextAnnotations: null
+    conversationId: 1568612180773466114
+    createdAt: 2022-09-10T14:47:41Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T15:17:41Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568612180773466114]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 75
+            start: 70
+            normalizedText: Race 3
+            probability: 0.6483
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 89
+            start: 80
+            normalizedText: Brahmastra
+            probability: 0.8849
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 144
+            start: 121
+            description: null
+            displayUrl: pic.twitter.com/8QeC8YO556
+            expandedUrl: https://twitter.com/shibhhuu/status/1568612180773466114/photo/1
+            images: null
+            mediaKey: 3_1568612176675622915
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/8QeC8YO556
+        }]
+    }
+    geo: null
+    id: 1568612180773466114
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 2451
+        quoteCount: 29
+        replyCount: 27
+        retweetCount: 176
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Someone telling              Me who saw
+    How bad movie                 Race 3 on
+    Brahmastra is.                   Theatre https://t.co/8QeC8YO556
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1497328808
+    contextAnnotations: null
+    conversationId: 1568775638500384770
+    createdAt: 2022-09-11T01:37:13Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T02:07:13Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568775638500384770]
+    entities: null
+    geo: null
+    id: 1568775638500384770
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 915991
+        quoteCount: 2900
+        replyCount: 1418
+        retweetCount: 87913
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The guy with the worst grades should get to give a graduation speech too. Let me hear both sides
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568809586559430659, 3_1568809586542673921]
+        pollIds: null
+    }
+    authorId: 1334791062510977024
+    contextAnnotations: null
+    conversationId: 1568809593928810498
+    createdAt: 2022-09-11T03:52:08Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T04:22:08Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568809593928810498]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 38
+            start: 15
+            description: null
+            displayUrl: pic.twitter.com/inLKz6uYkU
+            expandedUrl: https://twitter.com/feederofcats/status/1568809593928810498/photo/1
+            images: null
+            mediaKey: 3_1568809586559430659
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/inLKz6uYkU
+        }, class UrlEntity {
+            end: 38
+            start: 15
+            description: null
+            displayUrl: pic.twitter.com/inLKz6uYkU
+            expandedUrl: https://twitter.com/feederofcats/status/1568809593928810498/photo/1
+            images: null
+            mediaKey: 3_1568809586542673921
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/inLKz6uYkU
+        }]
+    }
+    geo: null
+    id: 1568809593928810498
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 26050
+        quoteCount: 20
+        replyCount: 106
+        retweetCount: 1720
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: eepy boy alert https://t.co/inLKz6uYkU
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 218716196
+    contextAnnotations: null
+    conversationId: 1568566648084242432
+    createdAt: 2022-09-10T11:46:46Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T12:16:46Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568566648084242432]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 10
+            start: 0
+            normalizedText: Macrophages
+            probability: 0.5501
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 54
+            start: 31
+            description: null
+            displayUrl: twitter.com/hi1ar10us/stat…
+            expandedUrl: https://twitter.com/hi1ar10us/status/1568304751518810113
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/SCJIPwcbq2
+        }]
+    }
+    geo: null
+    id: 1568566648084242432
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 21634
+        quoteCount: 159
+        replyCount: 100
+        retweetCount: 3208
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568304751518810113
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: Macrophages are so impressive. https://t.co/SCJIPwcbq2
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568570535017168896, 3_1568570534958333953]
+        pollIds: null
+    }
+    authorId: 319770079
+    contextAnnotations: null
+    conversationId: 1568570542050910208
+    createdAt: 2022-09-10T12:02:14Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T12:32:14Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568570542050910208]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 54
+            start: 35
+            normalizedText: David Stickenborough
+            probability: 0.8695
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 133
+            start: 129
+            normalizedText: David
+            probability: 0.5492
+            type: Person
+        }]
+        cashtags: null
+        hashtags: [class HashtagEntity {
+            end: 247
+            start: 230
+            tag: NationalTreasure
+        }]
+        mentions: null
+        urls: [class UrlEntity {
+            end: 271
+            start: 248
+            description: null
+            displayUrl: pic.twitter.com/cwGUV4YuhB
+            expandedUrl: https://twitter.com/darrenlogan/status/1568570542050910208/photo/1
+            images: null
+            mediaKey: 3_1568570535017168896
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/cwGUV4YuhB
+        }, class UrlEntity {
+            end: 271
+            start: 248
+            description: null
+            displayUrl: pic.twitter.com/cwGUV4YuhB
+            expandedUrl: https://twitter.com/darrenlogan/status/1568570542050910208/photo/1
+            images: null
+            mediaKey: 3_1568570534958333953
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/cwGUV4YuhB
+        }]
+    }
+    geo: null
+    id: 1568570542050910208
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 87810
+        quoteCount: 669
+        replyCount: 899
+        retweetCount: 5857
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: My daughter named her new pet, Sir David Stickenborough, after her hero. She wrote to tell him this. Obviously he responded. Sir David is getting renamed, apparently, but my daughter’s fascination with nature has been reinforced. #NationalTreasure https://t.co/cwGUV4YuhB
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 47529622
+    contextAnnotations: null
+    conversationId: 1568397920889704448
+    createdAt: 2022-09-10T00:36:18Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T01:06:18Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568397920889704448]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 22
+            start: 8
+            normalizedText: Clarence Thomas
+            probability: 0.9596
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 61
+            start: 55
+            normalizedText: Twitter
+            probability: 0.9697
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568397920889704448
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 19058
+        quoteCount: 258
+        replyCount: 206
+        retweetCount: 962
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The day Clarence Thomas dies is gonna be a wild one on Twitter
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568726483413405697, 3_1568726483400814592]
+        pollIds: null
+    }
+    authorId: 1334791062510977024
+    contextAnnotations: null
+    conversationId: 1568726494243074051
+    createdAt: 2022-09-10T22:21:56Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T22:51:56Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568726494243074051]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 241
+            start: 218
+            description: null
+            displayUrl: pic.twitter.com/aQbeWd1ejv
+            expandedUrl: https://twitter.com/feederofcats/status/1568726494243074051/photo/1
+            images: null
+            mediaKey: 3_1568726483413405697
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/aQbeWd1ejv
+        }, class UrlEntity {
+            end: 241
+            start: 218
+            description: null
+            displayUrl: pic.twitter.com/aQbeWd1ejv
+            expandedUrl: https://twitter.com/feederofcats/status/1568726494243074051/photo/1
+            images: null
+            mediaKey: 3_1568726483400814592
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/aQbeWd1ejv
+        }]
+    }
+    geo: null
+    id: 1568726494243074051
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 27176
+        quoteCount: 48
+        replyCount: 240
+        retweetCount: 2009
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: just want to say thank you to everyone who prayed for my little guy this week through his medical scare. but please. i beg of you. Cease the praying. stop sending strength.  He is getting Too powerful. i live in  fear https://t.co/aQbeWd1ejv
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568448961928888325]
+        pollIds: null
+    }
+    authorId: 1092761195155664897
+    contextAnnotations: null
+    conversationId: 1568448972976693250
+    createdAt: 2022-09-10T03:59:10Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T04:29:10Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568448972976693250]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 65
+            start: 42
+            description: null
+            displayUrl: pic.twitter.com/5uYr2py4Ek
+            expandedUrl: https://twitter.com/kecchi0/status/1568448972976693250/photo/1
+            images: null
+            mediaKey: 3_1568448961928888325
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/5uYr2py4Ek
+        }]
+    }
+    geo: null
+    id: 1568448972976693250
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 122535
+        quoteCount: 621
+        replyCount: 396
+        retweetCount: 13957
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: AYE CHEERS THAT’LL BE 5 CROCOLIDOOS MATE. https://t.co/5uYr2py4Ek
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568366544752709632]
+        pollIds: null
+    }
+    authorId: 1110664308248190976
+    contextAnnotations: null
+    conversationId: 1568366550675034120
+    createdAt: 2022-09-09T22:31:39Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T23:01:39Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568366550675034120]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/e7RaL0PeMi
+            expandedUrl: https://twitter.com/daisychandley/status/1568366550675034120/photo/1
+            images: null
+            mediaKey: 3_1568366544752709632
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/e7RaL0PeMi
+        }]
+    }
+    geo: null
+    id: 1568366550675034120
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 82026
+        quoteCount: 278
+        replyCount: 80
+        retweetCount: 10760
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/e7RaL0PeMi
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568750916396027904]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568750920539975681
+    createdAt: 2022-09-10T23:59Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-11T00:29Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568750920539975681]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 55
+            start: 32
+            description: null
+            displayUrl: pic.twitter.com/SOdTIMGGaS
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568750920539975681/photo/1
+            images: null
+            mediaKey: 3_1568750916396027904
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/SOdTIMGGaS
+        }]
+    }
+    geo: null
+    id: 1568750920539975681
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 9572
+        quoteCount: 15
+        replyCount: 48
+        retweetCount: 437
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: ACTION SHOT the sock almost won https://t.co/SOdTIMGGaS
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 140140903
+    contextAnnotations: null
+    conversationId: 1568630969028022274
+    createdAt: 2022-09-10T16:02:21Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T16:32:21Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568630969028022274]
+    entities: null
+    geo: null
+    id: 1568630969028022274
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 185965
+        quoteCount: 8184
+        replyCount: 3013
+        retweetCount: 46444
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Two weeks ago, I had four precious 12-year-old girls, including my daughter, with me at the county fair. They were getting blue Icees and corndogs for the walk to the car and ride home. (1/21)
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 140140903
+    contextAnnotations: null
+    conversationId: 1568630969028022274
+    createdAt: 2022-09-10T16:02:30Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T16:32:30Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568631007103909888]
+    entities: null
+    geo: null
+    id: 1568631007103909888
+    inReplyToUserId: 140140903
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 104340
+        quoteCount: 617
+        replyCount: 1851
+        retweetCount: 9118
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568631005375873026
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: So all of this to say:
+    
+    There is trauma in the running. 
+    There is trauma in the running. 
+    There is trauma in the running.
+    
+    And we have to do more. (21/21)
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1344897174
+    contextAnnotations: null
+    conversationId: 1568302855735635969
+    createdAt: 2022-09-09T18:18:33Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T18:48:33Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568302855735635969]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 15
+            start: 8
+            normalizedText: Astrosat
+            probability: 0.3771
+            type: Place
+        }, class FullTextEntitiesAnnotations {
+            end: 43
+            start: 38
+            normalizedText: Aditya
+            probability: 0.314
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 79
+            start: 69
+            normalizedText: Chandrayaan
+            probability: 0.3388
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 112
+            start: 103
+            normalizedText: Mangalyaan
+            probability: 0.3259
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 144
+            start: 135
+            normalizedText: Brahmastra
+            probability: 0.3512
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568302855735635969
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 51872
+        quoteCount: 694
+        replyCount: 1823
+        retweetCount: 11151
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Cost of Astrosat: ₹ 180 crore
+    Cost of Aditya L1: ₹ 378 crore
+    Cost of Chandrayaan:  ₹ 386 crore
+    Cost of Mangalyaan: ₹ 447 crore
+    Cost of Brahmastra: ₹ 450 crore
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 878720478
+    contextAnnotations: null
+    conversationId: 1568417061570740228
+    createdAt: 2022-09-10T01:52:21Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T02:22:21Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568417061570740228]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 245
+            start: 222
+            description: null
+            displayUrl: twitter.com/GlobeVaznis/st…
+            expandedUrl: https://twitter.com/GlobeVaznis/status/1568381036618203136
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/YLXcF1J6PA
+        }]
+    }
+    geo: null
+    id: 1568417061570740228
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 27429
+        quoteCount: 147
+        replyCount: 71
+        retweetCount: 5011
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568381036618203136
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: This story is goddamn amazing. The fact that it was boys, specifically, who saw how their classmates were feeling and decided to KEEP A JOINT LOG. 
+    
+    Middle schoolers! I love these kids. Reading this story made me tear up. https://t.co/YLXcF1J6PA
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 88757512
+    contextAnnotations: null
+    conversationId: 1568305596344184838
+    createdAt: 2022-09-09T18:29:26Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T18:59:26Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568305596344184838]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 37
+            start: 27
+            normalizedText: North Korea
+            probability: 0.952
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 68
+            start: 45
+            description: null
+            displayUrl: twitter.com/scottygb/statu…
+            expandedUrl: https://twitter.com/scottygb/status/1568284956790587392
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/iK9zE2pMoX
+        }]
+    }
+    geo: null
+    id: 1568305596344184838
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 166787
+        quoteCount: 803
+        replyCount: 137
+        retweetCount: 18544
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568284956790587392
+        type: quoted
+    }]
+    replySettings: following
+    source: null
+    text: Never take the piss out of North Korea again https://t.co/iK9zE2pMoX
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568656948534607875]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568656955136409600
+    createdAt: 2022-09-10T17:45:36Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T18:15:36Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568656955136409600]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 116
+            start: 93
+            description: null
+            displayUrl: pic.twitter.com/j9LeZczLGX
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568656955136409600/photo/1
+            images: null
+            mediaKey: 3_1568656948534607875
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/j9LeZczLGX
+        }]
+    }
+    geo: null
+    id: 1568656955136409600
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 8415
+        quoteCount: 46
+        replyCount: 76
+        retweetCount: 329
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I have to catch up on sleep this weekend. I have been so hilarious and entertaining all week https://t.co/j9LeZczLGX
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1090715513586679813
+    contextAnnotations: null
+    conversationId: 1568366976669741056
+    createdAt: 2022-09-09T22:33:20Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T23:03:20Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568366976669741056]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 16
+            start: 4
+            normalizedText: U.S. military
+            probability: 0.9522
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 111
+            start: 88
+            description: null
+            displayUrl: twitter.com/mintamolly/sta…
+            expandedUrl: https://twitter.com/mintamolly/status/1568310606440300544
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/WV0ElBCY7K
+        }]
+    }
+    geo: null
+    id: 1568366976669741056
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 114885
+        quoteCount: 385
+        replyCount: 568
+        retweetCount: 20597
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568310606440300544
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: The U.S. military gets a trillion dollars a year so Americans’ water can look like this https://t.co/WV0ElBCY7K
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568312474482491392, 3_1568312474469801986]
+        pollIds: null
+    }
+    authorId: 20371543
+    contextAnnotations: null
+    conversationId: 1568312479540977664
+    createdAt: 2022-09-09T18:56:47Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T19:26:47Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568312479540977664]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 54
+            start: 51
+            normalizedText: Phil
+            probability: 0.4898
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 96
+            start: 88
+            normalizedText: BumFights
+            probability: 0.8018
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 237
+            start: 234
+            normalizedText: Phil
+            probability: 0.3928
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 308
+            start: 285
+            description: null
+            displayUrl: pic.twitter.com/IdEfTQQFMT
+            expandedUrl: https://twitter.com/kendallybrown/status/1568312479540977664/photo/1
+            images: null
+            mediaKey: 3_1568312474482491392
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/IdEfTQQFMT
+        }, class UrlEntity {
+            end: 308
+            start: 285
+            description: null
+            displayUrl: pic.twitter.com/IdEfTQQFMT
+            expandedUrl: https://twitter.com/kendallybrown/status/1568312479540977664/photo/1
+            images: null
+            mediaKey: 3_1568312474469801986
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/IdEfTQQFMT
+        }]
+    }
+    geo: null
+    id: 1568312479540977664
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 514533
+        quoteCount: 1741
+        replyCount: 1041
+        retweetCount: 46732
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: At least once a month, I randomly remember that Dr Phil once invited the creator of the BumFights video series on his show to confront him about exploiting vulnerable people for financial gain—only for him to show up dressed up as Dr Phil &amp; point out he does the same exact thing. https://t.co/IdEfTQQFMT
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1224055831043297280
+    contextAnnotations: null
+    conversationId: 1568262495403638786
+    createdAt: 2022-09-09T15:38:10Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T16:08:10Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568262495403638786]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 3
+            start: 0
+            normalizedText: Boob
+            probability: 0.5242
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568262495403638786
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 11981
+        quoteCount: 202
+        replyCount: 231
+        retweetCount: 1738
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Boob is soft. Boob doesn't hurt anyone. Boob spread joy. Be like boob.
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568408898138247169]
+        pollIds: null
+    }
+    authorId: 727338733423464448
+    contextAnnotations: null
+    conversationId: 1568599926166196226
+    createdAt: 2022-09-10T13:59Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T14:29Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568599926166196226]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 23
+            start: 0
+            description: null
+            displayUrl: pic.twitter.com/zllpcY0aj2
+            expandedUrl: https://twitter.com/RespectfulMemes/status/1568599926166196226/photo/1
+            images: null
+            mediaKey: 3_1568408898138247169
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/zllpcY0aj2
+        }]
+    }
+    geo: null
+    id: 1568599926166196226
+    inReplyToUserId: null
+    lang: zxx
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 39593
+        quoteCount: 72
+        replyCount: 19
+        retweetCount: 2713
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: https://t.co/zllpcY0aj2
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 69161090
+    contextAnnotations: null
+    conversationId: 1127947892008857605
+    createdAt: 2019-05-13T14:45:08Z
+    editControls: class TweetEditControls {
+        editableUntil: 2019-05-13T15:15:08Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1127947892008857605]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 6
+            start: 0
+            normalizedText: Netflix
+            probability: 0.9736
+            type: Organization
+        }, class FullTextEntitiesAnnotations {
+            end: 55
+            start: 49
+            normalizedText: Netflix
+            probability: 0.9724
+            type: Organization
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1127947892008857605
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 1186
+        quoteCount: 10
+        replyCount: 38
+        retweetCount: 561
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Netflix: Are you still watching?
+    
+    Me: [snoring]
+    
+    Netflix: [takes last piece of birthday cake from fridge]
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1567960414188625923, 3_1567960414222254086]
+        pollIds: null
+    }
+    authorId: 932163222
+    contextAnnotations: null
+    conversationId: 1567960426066984961
+    createdAt: 2022-09-08T19:37:51Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-08T20:07:51Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1567960426066984961]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 2
+            start: 0
+            normalizedText: EFF
+            probability: 0.8609
+            type: Organization
+        }, class FullTextEntitiesAnnotations {
+            end: 44
+            start: 30
+            normalizedText: Queen Elizabeth
+            probability: 0.8193
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 69
+            start: 46
+            description: null
+            displayUrl: pic.twitter.com/YlBhG2uXno
+            expandedUrl: https://twitter.com/EFFSouthAfrica/status/1567960426066984961/photo/1
+            images: null
+            mediaKey: 3_1567960414188625923
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/YlBhG2uXno
+        }, class UrlEntity {
+            end: 69
+            start: 46
+            description: null
+            displayUrl: pic.twitter.com/YlBhG2uXno
+            expandedUrl: https://twitter.com/EFFSouthAfrica/status/1567960426066984961/photo/1
+            images: null
+            mediaKey: 3_1567960414222254086
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/YlBhG2uXno
+        }]
+    }
+    geo: null
+    id: 1567960426066984961
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 81449
+        quoteCount: 6602
+        replyCount: 3398
+        retweetCount: 32365
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: EFF Statement On The Death Of Queen Elizabeth https://t.co/YlBhG2uXno
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568263648740610049]
+        pollIds: null
+    }
+    authorId: 1144797443307032577
+    contextAnnotations: null
+    conversationId: 1568263693846323202
+    createdAt: 2022-09-09T15:42:56Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T16:12:56Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568263693846323202]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 3
+            start: 0
+            normalizedText: bell
+            probability: 0.7809
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 96
+            start: 73
+            description: null
+            displayUrl: pic.twitter.com/w2C5eWHlL2
+            expandedUrl: https://twitter.com/ashhhhhhole/status/1568263693846323202/photo/1
+            images: null
+            mediaKey: 3_1568263648740610049
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/w2C5eWHlL2
+        }]
+    }
+    geo: null
+    id: 1568263693846323202
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 170
+        quoteCount: 0
+        replyCount: 8
+        retweetCount: 0
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: bell says gm and that she’s proud of you for making it thru another week https://t.co/w2C5eWHlL2
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 299039607
+    contextAnnotations: null
+    conversationId: 1568284365930758147
+    createdAt: 2022-09-09T17:05:04Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T17:35:04Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568284365930758147]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 17
+            start: 10
+            normalizedText: visarjan
+            probability: 0.4764
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 70
+            start: 65
+            normalizedText: Doobey
+            probability: 0.6294
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 86
+            start: 77
+            normalizedText: Gehraiyaan
+            probability: 0.5999
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568284365930758147
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 4160
+        quoteCount: 54
+        replyCount: 46
+        retweetCount: 195
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: There’s a visarjan procession passing by my house that’s playing Doobey from Gehraiyaan I cannot make this shit up
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1533655771010830336
+    contextAnnotations: null
+    conversationId: 1567863251047976960
+    createdAt: 2022-09-08T13:11:43Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-08T13:41:43Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1567863251047976960]
+    entities: null
+    geo: null
+    id: 1567863251047976960
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 4165
+        quoteCount: 104
+        replyCount: 522
+        retweetCount: 334
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Bras are so expensive I have got bras and panties for 6k aur in ladko ki chaddiyan 200 ki aati hai how? that's so unacceptable.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 473012759
+    contextAnnotations: null
+    conversationId: 1568494863590752257
+    createdAt: 2022-09-10T07:01:31Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-10T07:31:31Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568494863590752257]
+    entities: null
+    geo: null
+    id: 1568494863590752257
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 38
+        quoteCount: 0
+        replyCount: 3
+        retweetCount: 0
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Am very a baby pink floral cotton dress with a white lace fringe today I somehow feel everyone should know
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1359952254296608768
+    contextAnnotations: null
+    conversationId: 1567949091329683457
+    createdAt: 2022-09-08T18:52:49Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-08T19:22:49Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1567949091329683457]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 66
+            start: 43
+            description: null
+            displayUrl: twitter.com/justinbaragona…
+            expandedUrl: https://twitter.com/justinbaragona/status/1567930111135023116
+            images: null
+            mediaKey: null
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/rso5EBtHUs
+        }]
+    }
+    geo: null
+    id: 1567949091329683457
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 130320
+        quoteCount: 715
+        replyCount: 1040
+        retweetCount: 8934
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1567930111135023116
+        type: quoted
+    }]
+    replySettings: everyone
+    source: null
+    text: GUYS THATS ME HHAHAHAHAHAHAH WHAT THE FUCK https://t.co/rso5EBtHUs
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1568219042128732162]
+        pollIds: null
+    }
+    authorId: 1476061307648593923
+    contextAnnotations: null
+    conversationId: 1568219071795052545
+    createdAt: 2022-09-09T12:45:37Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T13:15:37Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568219071795052545]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 43
+            start: 20
+            description: null
+            displayUrl: pic.twitter.com/MNZoRm0HGW
+            expandedUrl: https://twitter.com/DontShowYourCat/status/1568219071795052545/video/1
+            images: null
+            mediaKey: 7_1568219042128732162
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/MNZoRm0HGW
+        }]
+    }
+    geo: null
+    id: 1568219071795052545
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 355971
+        quoteCount: 3433
+        replyCount: 1666
+        retweetCount: 55667
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: trying to look cute https://t.co/MNZoRm0HGW
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568364942138683392]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568364960392318977
+    createdAt: 2022-09-09T22:25:20Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T22:55:20Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568364960392318977]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 148
+            start: 125
+            description: null
+            displayUrl: pic.twitter.com/kDaWS6vlDG
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568364960392318977/photo/1
+            images: null
+            mediaKey: 3_1568364942138683392
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/kDaWS6vlDG
+        }]
+    }
+    geo: null
+    id: 1568364960392318977
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 12962
+        quoteCount: 35
+        replyCount: 102
+        retweetCount: 743
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: How do you keep getting in here? Where did you find that piece of trash? Why are you so wet?
+    
+    Ah yes. I am full of mysteries https://t.co/kDaWS6vlDG
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [7_1146564053780901891]
+        pollIds: null
+    }
+    authorId: 1251867613052973056
+    contextAnnotations: null
+    conversationId: 1568263915980869634
+    createdAt: 2022-09-09T15:43:49Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T16:13:49Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568263915980869634]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 71
+            start: 48
+            description: null
+            displayUrl: pic.twitter.com/chGiB8Y1uu
+            expandedUrl: https://twitter.com/itsdaneesaur/status/1146564064610529280/video/1
+            images: null
+            mediaKey: 7_1146564053780901891
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/chGiB8Y1uu
+        }]
+    }
+    geo: null
+    id: 1568263915980869634
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 822965
+        quoteCount: 5638
+        replyCount: 4789
+        retweetCount: 111013
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Arguably the most beautiful jump in cat history.https://t.co/chGiB8Y1uu
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 299039607
+    contextAnnotations: null
+    conversationId: 1568195281669484549
+    createdAt: 2022-09-09T11:11:05Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T11:41:05Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568195281669484549]
+    entities: null
+    geo: null
+    id: 1568195281669484549
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 243
+        quoteCount: 5
+        replyCount: 3
+        retweetCount: 15
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: The biggest disadvantage of working from home is that your parents think it’s perfectly acceptable to repeatedly talk to you and ask you to do stuff as if you’re on holiday 🥲
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 409389074
+    contextAnnotations: null
+    conversationId: 1568219039218151426
+    createdAt: 2022-09-09T12:45:29Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T13:15:29Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568219039218151426]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 122
+            start: 117
+            normalizedText: Lizzie
+            probability: 0.5033
+            type: Person
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1568219039218151426
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 108010
+        quoteCount: 269
+        replyCount: 383
+        retweetCount: 16021
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: Weird how this site is full of people mocking the queen's death including video of an Irish soccer stadium chanting "Lizzie's in a box" yet the only person singled out for criticism and outrage was a black female professor whose family was lost to a British sponsored genocide.
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 1074425497914957824
+    contextAnnotations: null
+    conversationId: 1567544719101640709
+    createdAt: 2022-09-07T16:05:59Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-07T16:35:59Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1567544719101640709]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 74
+            start: 68
+            normalizedText: ireland
+            probability: 0.2816
+            type: Person
+        }, class FullTextEntitiesAnnotations {
+            end: 133
+            start: 127
+            normalizedText: ireland
+            probability: 0.5329
+            type: Place
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: null
+    }
+    geo: null
+    id: 1567544719101640709
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 14268
+        quoteCount: 43
+        replyCount: 53
+        retweetCount: 2121
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: i still can't get over the fact that people on here are acting like ireland isn't under colonialist rule anymore when northern ireland LITERALLY doesn't have a government right now because the colonialist party refuses to accept that the irish nationalist party won a- (1/2)
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568245900170108929]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568245907828908032
+    createdAt: 2022-09-09T14:32:15Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T15:02:15Z
+        editsRemaining: 5
+        isEditEligible: true
+    }
+    editHistoryTweetIds: [1568245907828908032]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 47
+            start: 24
+            description: null
+            displayUrl: pic.twitter.com/IgDujGpfV2
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568245907828908032/photo/1
+            images: null
+            mediaKey: 3_1568245900170108929
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/IgDujGpfV2
+        }]
+    }
+    geo: null
+    id: 1568245907828908032
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 10542
+        quoteCount: 36
+        replyCount: 221
+        retweetCount: 500
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: I am in this box hahaha https://t.co/IgDujGpfV2
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1567969915696721920]
+        pollIds: null
+    }
+    authorId: 1332557450
+    contextAnnotations: null
+    conversationId: 1567969918842445827
+    createdAt: 2022-09-08T20:15:34Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-08T20:45:34Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1567969918842445827]
+    entities: class FullTextEntities {
+        annotations: null
+        cashtags: null
+        hashtags: null
+        mentions: null
+        urls: [class UrlEntity {
+            end: 58
+            start: 35
+            description: null
+            displayUrl: pic.twitter.com/4Wz1bmbm76
+            expandedUrl: https://twitter.com/InkMasterbator/status/1567969918842445827/photo/1
+            images: null
+            mediaKey: 3_1567969915696721920
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/4Wz1bmbm76
+        }]
+    }
+    geo: class TweetGeo {
+        coordinates: null
+        placeId: f7eb2fa2fea288b1
+    }
+    id: 1567969918842445827
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 138732
+        quoteCount: 181
+        replyCount: 602
+        retweetCount: 6223
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: This isn't legally binding, is it? https://t.co/4Wz1bmbm76
+    withheld: null
+}, class Tweet {
+    attachments: null
+    authorId: 375240990
+    contextAnnotations: null
+    conversationId: 1567993963872940034
+    createdAt: 2022-09-08T21:51:07Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-08T22:21:07Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1567993963872940034]
+    entities: null
+    geo: null
+    id: 1567993963872940034
+    inReplyToUserId: null
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 241181
+        quoteCount: 406
+        replyCount: 539
+        retweetCount: 18215
+    }
+    referencedTweets: null
+    replySettings: everyone
+    source: null
+    text: i hate to break it to anyone who thinks the jokes are tasteless but people have been joking about monarchs dying for like 5000 years
+    withheld: null
+}, class Tweet {
+    attachments: class TweetAttachments {
+        mediaKeys: [3_1568122361349836801]
+        pollIds: null
+    }
+    authorId: 1470944601309528072
+    contextAnnotations: null
+    conversationId: 1568085235010797571
+    createdAt: 2022-09-09T06:21:21Z
+    editControls: class TweetEditControls {
+        editableUntil: 2022-09-09T06:51:21Z
+        editsRemaining: 5
+        isEditEligible: false
+    }
+    editHistoryTweetIds: [1568122366164860928]
+    entities: class FullTextEntities {
+        annotations: [class FullTextEntitiesAnnotations {
+            end: 48
+            start: 40
+            normalizedText: wikipedia
+            probability: 0.9718
+            type: Other
+        }, class FullTextEntitiesAnnotations {
+            end: 91
+            start: 85
+            normalizedText: Haitian
+            probability: 0.5108
+            type: Other
+        }]
+        cashtags: null
+        hashtags: null
+        mentions: [class MentionEntity {
+            end: 12
+            start: 0
+            id: 1161500005
+            username: PhilTheBern
+        }]
+        urls: [class UrlEntity {
+            end: 129
+            start: 106
+            description: null
+            displayUrl: en.wikipedia.org/wiki/Haitian_R…
+            expandedUrl: https://en.wikipedia.org/wiki/Haitian_Revolution?wprov=sfti1
+            images: null
+            mediaKey: null
+            status: 200
+            title: Haitian Revolution - Wikipedia
+            unwoundUrl: https://en.wikipedia.org/wiki/Haitian_Revolution?wprov=sfti1
+            url: https://t.co/sE4pAdyuyf
+        }, class UrlEntity {
+            end: 153
+            start: 130
+            description: null
+            displayUrl: pic.twitter.com/mXSJFteuSe
+            expandedUrl: https://twitter.com/JortsTheCat/status/1568122366164860928/photo/1
+            images: null
+            mediaKey: 3_1568122361349836801
+            status: null
+            title: null
+            unwoundUrl: null
+            url: https://t.co/mXSJFteuSe
+        }]
+    }
+    geo: null
+    id: 1568122366164860928
+    inReplyToUserId: 1161500005
+    lang: en
+    nonPublicMetrics: null
+    organicMetrics: null
+    possiblySensitive: false
+    promotedMetrics: null
+    publicMetrics: class TweetPublicMetrics {
+        likeCount: 369
+        quoteCount: 1
+        replyCount: 2
+        retweetCount: 48
+    }
+    referencedTweets: [class TweetReferencedTweets {
+        id: 1568085235010797571
+        type: replied_to
+    }]
+    replySettings: everyone
+    source: null
+    text: @PhilTheBern I maintain one of the best wikipedia articles ever is the one about the Haitian revolution.
+    
+    https://t.co/sE4pAdyuyf https://t.co/mXSJFteuSe
+    withheld: null
+}]
