@@ -1,3 +1,8 @@
+1. Store bookmarks of a user
+2. Store tweets and retweets of a user
+3. Figure out the time thing
+
+
 Broad aims:
 1. Write a program that retrieves and stores
 (i) All the tweets that a user has liked
