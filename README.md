@@ -2,6 +2,7 @@
 2. Store tweets and retweets of a user
 3. Figure out the time thing
 4. Auto create user and start session? Close session after every request?
+5. Error handling
 
 
 Broad aims:
