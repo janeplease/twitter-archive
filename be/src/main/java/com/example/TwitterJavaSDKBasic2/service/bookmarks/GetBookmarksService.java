@@ -1,5 +1,7 @@
 package com.example.TwitterJavaSDKBasic2.service.bookmarks;
 
+import com.example.TwitterJavaSDKBasic2.model.BookmarkedTweet;
+import com.example.TwitterJavaSDKBasic2.repository.BookmarksRepository;
 import com.example.TwitterJavaSDKBasic2.utils.DirectoryPreparation;
 import com.twitter.clientlib.ApiException;
 import com.twitter.clientlib.api.TwitterApi;
@@ -32,6 +34,9 @@ public class GetBookmarksService {
 
     @Autowired
     BookmarksSQSSender bookmarksSQSSender;
+
+    @Autowired
+    BookmarksRepository bookmarksRepository;
 
     public HashSet<String> getTweetFields() {
         HashSet<String> tweetFields = new HashSet<String>();
@@ -158,16 +163,23 @@ public class GetBookmarksService {
                         .placeFields(getBookmarksService.getPlaceFields())
                         .execute();
 
-                if(result!=null && result.getData()!=null)
+                if(result!=null && result.getData()!=null) {
                     numTotalBookmarks = numTotalBookmarks + result.getData().size();
 
-                int partitionSize = 4;
+                    List<Tweet> tweets = result.getData();
+                    for(int i=0; i<tweets.size(); i++) {
+                        Tweet tweet = tweets.get(i);
 
-                List<List<Tweet>> partitions = ListUtils.partition(result.getData(), partitionSize);
-
-                for(int i=0; i<partitionSize; i++) {
-                    bookmarksSQSSender.sendMessage(partitions.get(i));
+                        BookmarkedTweet bookmarkedTweet = new BookmarkedTweet();
+                        bookmarkedTweet.setTweetId(tweet.getId());
+                        if(tweet.getReferencedTweets()!=null)
+                            bookmarkedTweet.setReplyTweetId(tweet.getReferencedTweets().get(0).toString());
+                        else
+                            bookmarkedTweet.setReplyTweetId(null);
+                        bookmarksRepository.save(bookmarkedTweet);
+                    }
                 }
+
 
                 getBookmarksService.writeDataInFile(result, "Bookmarked_Tweets_"+numTotalBookmarks + ".txt");
                 System.out.println("Tweets liked till now is "+numTotalBookmarks);
