@@ -1,13 +1,17 @@
 package com.example.TwitterJavaSDKBasic2.controller;
 
-import com.example.TwitterJavaSDKBasic2.*;
 import com.example.TwitterJavaSDKBasic2.auth.Authentication;
+import com.example.TwitterJavaSDKBasic2.auth.twitterKeys;
+import com.example.TwitterJavaSDKBasic2.config.AppConfig;
+import com.example.TwitterJavaSDKBasic2.service.bookmarks.GetBookmarksService;
+import com.example.TwitterJavaSDKBasic2.service.GetLikesService;
+import com.example.TwitterJavaSDKBasic2.service.GetProfileService;
+import com.example.TwitterJavaSDKBasic2.service.GetUserService;
 import com.twitter.clientlib.TwitterCredentialsOAuth2;
 import com.twitter.clientlib.api.TwitterApi;
 import com.twitter.clientlib.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
@@ -20,13 +24,16 @@ public class Controller {
     @Autowired
     AppConfig appConfig;
 
+    @Autowired
+    GetBookmarksService getBookmarksService;
+
     private TwitterApi apiInstance;
     private User currentUser;
 
     @GetMapping("/createuser")
     public void createUser() {
         System.out.println("Creating new user");
-        MyValues myValues = appConfig.myValues();
+        twitterKeys myValues = appConfig.myValues();
         Authentication oAuth20AppOnlyGetAccessToken = new Authentication();
         System.out.println(myValues.getApiKey());
         System.out.println(myValues.getApiKeySecret());
@@ -36,7 +43,7 @@ public class Controller {
                 "",
                 "");
         apiInstance = new TwitterApi(credentials);
-        GetUser getUser = new GetUser();
+        GetUserService getUser = new GetUserService();
         currentUser = getUser.getUser(apiInstance, myValues.getUsername());
         System.out.println("New user created");
     }
@@ -44,7 +51,7 @@ public class Controller {
     @GetMapping("/likedtweets")
     public void getLikedTweets() {
         System.out.println("Getting all liked tweets");
-        GetLikes currentUserLikes = new GetLikes();
+        GetLikesService currentUserLikes = new GetLikesService();
         System.out.println(currentUser.getId());
         currentUserLikes.getLikesByUserId(apiInstance, currentUser.getId());
 
@@ -54,15 +61,17 @@ public class Controller {
     @GetMapping("/bookmarkedtweets")
     public void getBookmarkedTweets() {
         System.out.println("Getting all bookmarked tweets");
-        GetBookmarks currentUserBookmarks = new GetBookmarks();
         System.out.println(currentUser.getId());
-        currentUserBookmarks.getBookmarksByUserId(apiInstance, currentUser.getId());
+        getBookmarksService.getBookmarksByUserId(apiInstance, currentUser.getId());
     }
 
-
-    @GetMapping("/oauth/twitter")
-    public void twitterAuth(@PathVariable String str) {
-        System.out.println(str);
+    @GetMapping("/profiletweets")
+    public void getProfileTweets() {
+        System.out.println("Getting all profile tweets");
+        GetProfileService currentUserProfile = new GetProfileService();
+        System.out.println(currentUser.getId());
+        currentUserProfile.getTweetsByUserId(apiInstance, currentUser.getId());
     }
+
 
 }
