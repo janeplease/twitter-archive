@@ -1,6 +1,6 @@
-package com.example.TwitterJavaSDKBasic2;
+package com.example.TwitterJavaSDKBasic2.auth;
 
-public class MyValues {
+public class twitterKeys {
 
     private String bearerToken;
     private String username;

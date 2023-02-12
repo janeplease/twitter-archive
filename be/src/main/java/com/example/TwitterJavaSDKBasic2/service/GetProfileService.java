@@ -1,13 +1,11 @@
-package com.example.TwitterJavaSDKBasic2;
+package com.example.TwitterJavaSDKBasic2.service;
 
 import com.example.TwitterJavaSDKBasic2.utils.DirectoryPreparation;
 import com.twitter.clientlib.ApiException;
 import com.twitter.clientlib.api.TwitterApi;
-import com.twitter.clientlib.model.Get2UsersIdBookmarksResponse;
-import com.twitter.clientlib.model.Get2UsersIdLikedTweetsResponse;
+import com.twitter.clientlib.model.Get2UsersIdTweetsResponse;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -16,10 +14,11 @@ import java.util.HashSet;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class GetBookmarks {
+public class GetProfileService {
 
-    private static int numTotalBookmarks = 0;
-    private static HashSet<String> bookmarkedTweetsId;
+    private static int numTotalTweets = 0;
+
+    static HashSet<String> tweetsId;
 
     public static HashSet<String> getTweetFields() {
         HashSet<String> tweetFields = new HashSet<String>();
@@ -114,9 +113,9 @@ public class GetBookmarks {
         return pollFields;
     }
 
-    public static void writeDataInFile(Get2UsersIdBookmarksResponse response, String filename) {
+    public static void writeDataInFile(Get2UsersIdTweetsResponse response, String filename) {
         try {
-            FileWriter fw = new FileWriter("D:\\Projects\\TwitterJavaSDKBasic2\\be\\data\\bookmarks\\" + filename);
+            FileWriter fw = new FileWriter("D:\\Projects\\TwitterJavaSDKBasic2\\be\\data\\ProfileTweets\\" + filename, true);
             BufferedWriter bw = new BufferedWriter(fw);
             bw.write(String.valueOf(response.getData()));
             bw.newLine();
@@ -127,30 +126,32 @@ public class GetBookmarks {
         }
     }
 
-    public static Get2UsersIdBookmarksResponse processOneBatch(TwitterApi apiInstance, String userId, String paginationToken) {
+    public static Get2UsersIdTweetsResponse processOneBatch(TwitterApi apiInstance, String userId, String paginationToken) {
         Integer maxResults = 100;
         int numberOfCalls = 0;
-        Get2UsersIdBookmarksResponse result = null;
+        Get2UsersIdTweetsResponse result = null;
         AtomicInteger check = new AtomicInteger(0);
         do {
             try{
-                result = apiInstance.bookmarks().getUsersIdBookmarks(userId)
+                numberOfCalls++;
+                result = apiInstance.tweets().usersIdTweets(userId)
                         .maxResults(maxResults)
                         .paginationToken(paginationToken)
-                        .tweetFields(GetBookmarks.getTweetFields())
-                        .expansions(GetBookmarks.getExpansions())
-                        .mediaFields(GetBookmarks.getMediaFields())
-                        .pollFields(GetBookmarks.getPollFields())
-                        .userFields(GetBookmarks.getUserFields())
-                        .placeFields(GetBookmarks.getPlaceFields())
+                        .tweetFields(GetProfileService.getTweetFields())
+                        .expansions(GetProfileService.getExpansions())
+                        .mediaFields(GetProfileService.getMediaFields())
+                        .pollFields(GetProfileService.getPollFields())
+//                        .userFields(GetProfile.getUserFields())
+                        .placeFields(GetProfileService.getPlaceFields())
                         .execute();
-                if(result!=null && result.getData()!=null)
-                    numTotalBookmarks = numTotalBookmarks + result.getData().size();
-                GetBookmarks.writeDataInFile(result, "Bookmarked_Tweets_"+numTotalBookmarks + ".txt");
-                System.out.println("Tweets liked till now is "+numTotalBookmarks);
+                if(result!=null &&
+                        result.getData()!=null)
+                    numTotalTweets = numTotalTweets + result.getData().size();
+                GetProfileService.writeDataInFile(result, "ProfileTweets"+numTotalTweets + ".txt");
+                System.out.println("Tweets received till now is "+numTotalTweets);
                 result.getData().forEach((tweet) -> {
-                    if(!bookmarkedTweetsId.contains(tweet.getId())) {
-                        bookmarkedTweetsId.add(tweet.getId());
+                    if(!tweetsId.contains(tweet.getId())) {
+                        tweetsId.add(tweet.getId());
                     }
                     else {
                         System.out.println("Duplicate "+tweet.getId());
@@ -162,7 +163,7 @@ public class GetBookmarks {
                 paginationToken = result.getMeta().getNextToken();
             }
             catch (ApiException e) {
-                System.err.println("Exception when calling TweetsApi#bookmarked");
+                System.err.println("Exception when calling TweetsApi#usersIdTweets");
                 System.err.println("Status code: " + e.getCode());
                 System.err.println("Reason: " + e.getResponseBody());
                 System.err.println("Response headers: " + e.getResponseHeaders());
@@ -175,20 +176,19 @@ public class GetBookmarks {
         }
         while(result.getMeta().getNextToken()!=null && numberOfCalls<75);
 
-
         return result;
     }
 
+    public void getTweetsByUserId(TwitterApi apiInstance, String userId) {
 
-    public void getBookmarksByUserId(TwitterApi apiInstance, String userId) {
         DirectoryPreparation directoryPreparation = new DirectoryPreparation();
-        directoryPreparation.clearDirectoryBookmarks();
+        directoryPreparation.clearDirectoryTweets();
 
-        bookmarkedTweetsId = new HashSet<String>();
+        tweetsId = new HashSet<String>();
 
-        Integer maxResults = 100; // Integer | The maximum number of results.
+        Integer maxResults = 100;
 
-        Get2UsersIdBookmarksResponse result;
+        Get2UsersIdTweetsResponse result;
         String paginationToken = null;
         do {
             result = processOneBatch(apiInstance, userId, paginationToken);
@@ -207,6 +207,6 @@ public class GetBookmarks {
             }
         }
         while(result.getMeta().getNextToken()!=null);
-        System.out.println("Total number of tweets bookmarked is "+numTotalBookmarks);
+        System.out.println("Total number of tweets received is "+numTotalTweets);
     }
 }

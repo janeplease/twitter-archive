@@ -1,5 +1,6 @@
-package com.example.TwitterJavaSDKBasic2;
+package com.example.TwitterJavaSDKBasic2.config;
 
+import com.example.TwitterJavaSDKBasic2.auth.twitterKeys;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -27,8 +28,8 @@ public class AppConfig {
     private String clientSecret;
 
     @Bean
-    public MyValues myValues() {
-        MyValues myValues = new MyValues();
+    public twitterKeys myValues() {
+        twitterKeys myValues = new twitterKeys();
         myValues.setBearerToken(bearerToken);
         myValues.setUsername(username);
         myValues.setApiKey(apiKey);

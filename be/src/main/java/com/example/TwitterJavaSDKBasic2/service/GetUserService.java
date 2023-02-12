@@ -1,4 +1,4 @@
-package com.example.TwitterJavaSDKBasic2;
+package com.example.TwitterJavaSDKBasic2.service;
 
 import com.twitter.clientlib.ApiException;
 import com.twitter.clientlib.api.TwitterApi;
@@ -8,7 +8,7 @@ import com.twitter.clientlib.model.User;
 import java.util.HashSet;
 import java.util.Set;
 
-public class GetUser {
+public class GetUserService {
     public User getUser(TwitterApi apiInstance, String username) {
         Set<String> userFields = new HashSet<>();
         userFields.add("created_at");
